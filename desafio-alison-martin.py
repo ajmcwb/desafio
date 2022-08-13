@@ -1,9 +1,8 @@
 import requests
-import pandas as pd
-from urllib.request import urlopen
 from bs4 import BeautifulSoup  # extrai dados de arquivos html e xml
 from configparser import ConfigParser
-import webbrowser
+import re
+
 
 # Aqui ele ele usa o ConfigParser para leitura do arquivo solicitado
 config = ConfigParser()
@@ -18,12 +17,11 @@ new_url = url + candidato
 url = new_url
 
 html = requests.get(url).content  # pegando o conteudo de uma requisição get na url solicitada
-soup = BeautifulSoup(html, 'html.parser')  # é criado um objeto chamado soup que está interpretando o documento HTML.
+soup = BeautifulSoup(html, 'lxml')  # é criado um objeto chamado soup que está interpretando o documento HTML.
+text = str(re_script.sub('', soup))
 # print(soup.prettify())  # apresenta o HTML formatado
 
+re_script = re.compile('<\s*script[^>]*>.*?<\s*/\s*script\s*>', re.S | re.I)
 
-
-
-# captura todos os scripts de Javascript
-for script in soup.find_all('script'):
-    print(script.replace(''))
+text = re_script.sub('', soup)
+print(text)
