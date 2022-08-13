@@ -14,16 +14,13 @@ url = (config.get('dados', 'url'))
 inicio = (config.get('dados', 'inicio'))
 fim = (config.get('dados', 'fim'))
 
-# concatena a url com o nome do candidato
-new_url = url + 'alison-martin'
-url = new_url
-
-# se erro ignorar concatenar
-
+if '=' in url:
+    # concatena a url com o nome do candidato
+    new_url = url + 'alison-martin'
+    url = new_url
 
 # Conteúdo da página do URL do site
 page = requests.get(url)
-
 
 # Função para remover as tags
 def remove_tags(html):
