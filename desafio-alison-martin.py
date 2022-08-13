@@ -1,39 +1,48 @@
-import urllib
-import requests
+import requests  # permitirá enviar solicitações http
 from bs4 import BeautifulSoup  # extrai dados de arquivos html e xml
-from configparser import ConfigParser
+from configparser import ConfigParser  # para manipulação de arquivos INI
 
-# Aqui ele ele usa o ConfigParser para leitura do arquivo solicitado
+# Primeiro foi necessário inserir uma chave ('dados') dentro do arquivo .ini
+# para que o interpretador possa localizar as informações
+
+# Aqui ele usa o ConfigParser para leitura do arquivo solicitado
 config = ConfigParser()
-config.read('desafio.ini')  # arquivo solicitado
+config.read('desafio.ini')
 
-candidato = 'alison-martin'
-url = (config.get('dados', 'url'))  # captura a informação na seção (criada) 'dados' e chave 'url'
-inicio = (config.get('dados', 'inicio'))  # captura a informação da seção 'dados' e chave 'inicio'
-fim = (config.get('dados', 'fim'))  # captura a informação da seção 'dados' e chave 'fim'
+# captura a informação na seção (criada) 'dados' e chave 'url', 'inicio', 'fim'
+url = (config.get('dados', 'url'))
+inicio = (config.get('dados', 'inicio'))
+fim = (config.get('dados', 'fim'))
 
-new_url = url + candidato  # concatena a url com o nome do candidato
+# concatena a url com o nome do candidato
+new_url = url + 'alison-martin'
 url = new_url
 
-# html = requests.get(url).content  # pegando o conteudo de uma requisição get na url solicitada
-# soup = BeautifulSoup(html, 'html.parser')  # é criado um objeto chamado soup que está interpretando o documento HTML.
+# se erro ignorar concatenar
 
-# Page content from Website URL
+
+# Conteúdo da página do URL do site
 page = requests.get(url)
 
 
 # Função para remover as tags
 def remove_tags(html):
-    # parse html content
-    soup = BeautifulSoup(html, "html.parser")
+    # analisa o conteudo html
+    soup = BeautifulSoup(html, "html.parser")  # é criado um objeto chamado soup que está interpretando o documento HTML
 
     for data in soup(['script']):
         # Remove tags
         data.decompose()
 
-    # return data by retrieving the tag content
+    # Retorna dados recuperando o conteúdo da tag
     return ' '.join(soup.stripped_strings)
 
 
-# Imprime os dados extraídos sem as tags Script e HTML
-print(remove_tags(page.content))
+# Imprime os dados extraídos sem tags
+sem_tags = remove_tags(page.content).lower()  # usa a função 'remove_tags' para remover as tags e converte
+# todos os caracteres em minusculas
+
+# localiza todas as palavras que iniciam com o conteudo de 'inicio' (con) e termina com o conteúdo de 'fim' (e)
+for i in sem_tags.split():  # separa o conteudo em uma lista para realizar a busca
+    if i.startswith(inicio) and i.endswith(fim):  # condição de busca do conteudo das variáveis inicio e fim
+        print(i)  # imprime as palavras encontradas que iniciam e terminam com os valores das variáveis inicio e fim
