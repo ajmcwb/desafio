@@ -18,10 +18,9 @@ url = new_url
 
 html = requests.get(url).content  # pegando o conteudo de uma requisição get na url solicitada
 soup = BeautifulSoup(html, 'lxml')  # é criado um objeto chamado soup que está interpretando o documento HTML.
-text = str(re_script.sub('', soup))
-# print(soup.prettify())  # apresenta o HTML formatado
 
 re_script = re.compile('<\s*script[^>]*>.*?<\s*/\s*script\s*>', re.S | re.I)
+text = re_script.sub('', text)
+# print(soup.prettify())  # apresenta o HTML formatado
 
-text = re_script.sub('', soup)
 print(text)
