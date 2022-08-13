@@ -12,7 +12,7 @@ url = (config.get('dados', 'url'))  # captura a informação na seção (criada)
 inicio = (config.get('dados', 'inicio'))  # captura a informação da seção 'dados' e chave 'inicio'
 fim = (config.get('dados', 'fim'))  # captura a informação da seção 'dados' e chave 'fim'
 
-new_url = url + candidato
+new_url = url + candidato  # concatena a url com o nome do candidato
 url = new_url
 
 # html = requests.get(url).content  # pegando o conteudo de uma requisição get na url solicitada
@@ -22,7 +22,7 @@ url = new_url
 page = requests.get(url)
 
 
-# Function to remove tags
+# Função para remover as tags
 def remove_tags(html):
     # parse html content
     soup = BeautifulSoup(html, "html.parser")
@@ -35,5 +35,5 @@ def remove_tags(html):
     return ' '.join(soup.stripped_strings)
 
 
-# Print the extracted data
+# Imprime os dados extraídos sem as tags Script e HTML
 print(remove_tags(page.content))
