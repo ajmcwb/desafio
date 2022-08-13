@@ -1,0 +1,2188 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+ <head>
+  <title>
+   QuiteJá: Negocie suas dívidas e pendências financeiras online
+  </title>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"/>
+  <meta content="initial-scale = 1.0,maximum-scale = 5.0" name="viewport">
+   <meta content="A QuiteJá te ajuda a negociar suas dívidas e limpar seu nome de forma segura, rápida e descomplicada. Negocie com desconto e quite já suas dívidas." name="description"/>
+   <meta content="negócios, crédito, débitos, dívidas, negociar, negociação, credor, quite, quitar, fácil, rápido, mobile, online, digital, acordos, proposta, propostas, ofertas, pague, pagar, paguei, contas, devedores, financeiro, financiamentos, financiamento, quiteja, quite já, saldo, renegociação" name="keywords"/>
+   <meta content="htgxgwNd88Sq-ja6duepfwud-3JS-biewbxenzuXqDs" name="google-site-verification">
+    <meta content="/static/browserconfig.xml?v=2.123.0" name="msapplication-config"/>
+    <meta content="#ffffff" name="msapplication-TileColor"/>
+    <meta content="A QuiteJá te ajuda a negociar suas dívidas e limpar seu nome de forma segura, rápida e descomplicada. Negocie com desconto e quite já suas dívidas." property="og:description"/>
+    <meta content="website" property="og:type"/>
+    <meta content="https://quiteja.com.br/?candidato=alison-martin" property="og:url"/>
+    <meta content="pt-BR" property="og:locale"/>
+    <meta content="QuiteJá - QuiteJá: Negocie suas dívidas e pendências financeiras online" property="og:title"/>
+    <meta content="QuiteJá" property="og:site_name"/>
+    <meta content="https://quiteja.com.br/static/images/share.jpg?v=2.123.0" property="og:image"/>
+    <link as="style" href="/static/css/fonts/Montserrat.css" rel="preload" type=""/>
+    <link href="/static/css/fonts/Montserrat.css" rel="stylesheet"/>
+    <link href="/static/images/icons/apple-touch-icon.png?v=2.123.0" rel="apple-touch-icon" sizes="152x152"/>
+    <link href="/static/images/icons/favicon-32x32.png?v=2.123.0" rel="icon" sizes="32x32" type="image/png"/>
+    <link href="/static/images/icons/favicon-16x16.png?v=2.123.0" rel="icon" sizes="16x16" type="image/png"/>
+    <link color="#5bbad5" href="/static/images/icons/safari-pinned-tab.svg?v=2.123.0" rel="mask-icon"/>
+    <link href="/static/images/icons/favicon.ico?v=2.123.0" rel="shortcut icon"/>
+    <link href="https://gorillascode.com/" rel="author"/>
+    <link href="https://quiteja.com.br/?candidato=alison-martin" rel="canonical"/>
+    <link href="/static/manifest.json?v=2.123.0" rel="manifest"/>
+    <link href="/static/opensearch.xml" rel="search" type="application/opensearchdescription+xml"/>
+    <link href="/static/css/fontawesome/css/all.min.css" rel="stylesheet"/>
+    <link href="/static/css/dist/main.css?v=2.123.0" rel="stylesheet"/>
+    <link as="image" imagesizes="100vw" imagesrcset="
+    /static/images/logo-quiteja.png
+    "/>
+    <style type="text/css">
+    </style>
+    <link href="/static/css/dist/home/main.css?v=2.123.0" rel="stylesheet"/>
+    <link as="font" crossorigin="" href="/static/css/fonts/Montserrat-Medium.woff2" rel="preload" type="font/woff2"/>
+    <link as="font" crossorigin="" href="/static/css/fonts/Montserrat-ExtraBold.woff2" rel="preload" type="font/woff2"/>
+    <link as="font" crossorigin="" href="/static/css/fonts/Montserrat-SemiBold.woff2" rel="preload" type="font/woff2"/>
+    <link as="font" crossorigin="" href="/static/css/fonts/Montserrat-Regular.woff2" rel="preload" type="font/woff2"/>
+    <link as="font" crossorigin="" href="/static/css/fontawesome/webfonts/fa-brands-400.woff2" rel="preload" type="font/woff2"/>
+    <link as="font" crossorigin="" href="/static/css/fontawesome/webfonts/fa-solid-900.woff2" rel="preload" type="font/woff2"/>
+    <link as="image" imagesizes="100vw" imagesrcset="/static/images/moça-bonita.png" rel="preload"/>
+    <script>
+     let recaptcha_token;
+    function captchaValidated(token) {
+      recaptcha_token = token;
+      $("#btnFormContact")
+        .removeAttr("disabled")
+        $("#btnFormContact").removeClass("disable")
+        $("#btnFormContact").attr("type", "submit");
+    }
+
+    var quiteja = {
+      config: {
+        API_URL_V2: 'https://api.quiteja.com.br/v2',
+        VERSION: '2.123.0',
+      },
+    };
+    </script>
+    <script crossorigin="anonymous" integrity="sha384-vPBC54nCGwq3pbZ+Pz+wRJ/AakVC5QupQkiRoGc7OuSGE9NDfsvOKeHVvx0GUSYp" src="https://browser.sentry-cdn.com/6.6.0/bundle.min.js">
+    </script>
+    <script>
+     (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N7ZBWNF');
+    </script>
+    <script>
+     /*<![CDATA[*/
+  window.zESettings = {
+    webWidget: {
+      color: {
+        theme: '#00da83',
+        launcherText: '#000000',
+      },
+      helpCenter: {
+        suppress: true
+      }
+    }
+  };
+  /*]]>*/
+    </script>
+    <script type="application/ld+json">
+     {
+      "@context": "http://schema.org",
+      "@type": "Organization",
+      "name": "QuiteJá",
+      "url": "https://quiteja.com.br/",
+      "logo": "https://quiteja.com.br/static/images/icons/apple-touch-icon.png?v=2.123.0",
+      "sameAs": [
+        "https://www.facebook.com/QuiteJa",
+        "https://www.instagram.com/quite.ja/",
+        "https://www.linkedin.com/company/quitejá",
+        "https://www.youtube.com/channel/UCAqELLEaB1rF5pV1oNrL2HA",
+        "https://twitter.com/QuitejaOficial"
+      ]
+    }
+    </script>
+   </meta>
+  </meta>
+ </head>
+ <body class="home">
+  <noscript>
+   <iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-N7ZBWNF" style="display:none;visibility:hidden" width="0">
+   </iframe>
+  </noscript>
+  <header id="header">
+   <div id="header-content">
+    <figure>
+     <a href="/">
+      <img alt="Logo QuiteJá" src="/static/images/logo-quiteja.png" title="Logo QuiteJá"/>
+     </a>
+    </figure>
+    <nav>
+     <ul class="nav-bar-links">
+      <li>
+       <a href="/" id="btn__home__desktop__menu">
+        Home
+       </a>
+      </li>
+      <li>
+       <a href="/quem-somos" id="btn__quem__somos__desktop__menu">
+        Quem somos
+       </a>
+      </li>
+      <li>
+       <a aria-expanded="false" aria-haspopup="true" href="#" id="parternsDropDownBtn" onclick="return false;" type="button">
+        Parceiros
+        <i class="fas fa-angle-down menu-icons" id="parterns-arrow">
+        </i>
+       </a>
+      </li>
+      <li>
+       <a href="/blog" id="btn__blog__desktop__menu">
+        Blog
+       </a>
+      </li>
+      <li>
+       <a href="#" id="header-know-more" onclick="return false;">
+        Saiba mais
+        <i class="fas fa-angle-down menu-icons" id="know-more-arrow">
+        </i>
+       </a>
+      </li>
+      <li>
+       <a href="/ajuda" id="btn__ajuda__desktop__menu">
+        Ajuda
+       </a>
+      </li>
+      <li>
+       <span id="dropdown-search-menu-btn" style="display: none;">
+        <i aria-hidden="true" class="fa fa-search">
+        </i>
+       </span>
+      </li>
+      <li>
+       <a class="btn btn-primary btn-billet" href="https://negocie.quiteja.com.br" id="btn__meus__boletos__desktop__menu" rel="noreferrer" role="button">
+        Meus boletos
+       </a>
+      </li>
+      <li>
+       <span id="dropdown-menu-btn">
+        <img alt="Icone de Menu" id="logo-menu-top" src="/static/images/icons/Menu.png"/>
+       </span>
+      </li>
+     </ul>
+    </nav>
+   </div>
+  </header>
+  <div aria-labelledby="parternsDropDownBtn" class="dropdown-menu container" id="dropDownPartners">
+   <div>
+    <span>
+     Estes são os parceiros da QuiteJá
+    </span>
+    <a class="btn btn-primary" href="/parceiros" id="btn-works" role="button">
+     Como
+funciona?
+    </a>
+   </div>
+   <div class="row personal-row">
+    <div class="col partners-banner" id="santander-banner-link">
+     <a aria-label="Santander" href="/parceiros/santander">
+      <img alt="Negociar dívidas Santander" src="/static/images/partners/santander-logo.png"/>
+     </a>
+    </div>
+    <div class="col partners-banner" id="itau-banner-link">
+     <a aria-label="Itau" href="/parceiros/itau">
+      <img alt="Negociar dívidas Itaú" src="/static/images/partners/itau-logo-menu.png"/>
+     </a>
+    </div>
+    <div class="col partners-banner" id="portoseguro-banner-link">
+     <a aria-label="Porto seguro" href="/parceiros/portoseguro">
+      <img alt="Negociar dívidas Porto Seguro" src="/static/images/partners/portoseguro-logo.png"/>
+     </a>
+    </div>
+    <div class="col partners-banner" id="itapeva-banner-link">
+     <a aria-label="Itapeva" href="/parceiros/itapeva">
+      <img alt="Negociar dívidas Itapeva" src="/static/images/partners/itapeva-logo.png"/>
+     </a>
+    </div>
+    <div class="w-100">
+    </div>
+    <div class="col partners-banner" id="pernambucanas-banner-link">
+     <a aria-label="Pernambucanas" href="/parceiros/pernambucanas">
+      <img alt="Negociar dívidas Pernambucanas" src="/static/images/partners/pernambucanas-logo.png"/>
+     </a>
+    </div>
+    <div class="col partners-banner" id="digio-banner-link">
+     <a aria-label="Digio" href="/parceiros/digio">
+      <img alt="Negociar dívidas Digio" src="/static/images/partners/digio-logo.png"/>
+     </a>
+    </div>
+    <div class="col partners-banner" id="ipanema-banner-link">
+     <a aria-label="Ipanema" href="/parceiros/ipanema">
+      <img alt="Negociar dívidas Ipanema" src="/static/images/partners/ipanema/logo.png"/>
+     </a>
+    </div>
+    <div class="col partners-banner" id="pontofrio-banner-link">
+     <a aria-label="Pontofrio" href="/parceiros/pontofrio">
+      <img alt="Negociar dívidas Pontofrio" src="/static/images/partners/pontofrio-logo.png"/>
+     </a>
+    </div>
+    <div class="w-100">
+    </div>
+    <div class="col partners-banner" id="geru-banner-link">
+     <a aria-label="Peru" href="/parceiros/geru">
+      <img alt="Negociar dívidas Geru" src="/static/images/partners/geru-logo.png"/>
+     </a>
+    </div>
+    <div class="col partners-banner" id="mercadolivre-banner-link">
+     <a aria-label="Mercado livre" href="/parceiros/mercadolivre">
+      <img alt="Negociar dívidas MercadoLivre" src="/static/images/partners/mercadolivre-logo.png"/>
+     </a>
+    </div>
+    <div class="col partners-banner" id="casasbahia-banner-link">
+     <a aria-label="Casas bahia" href="/parceiros/casasbahia">
+      <img alt="Negociar dívidas Casas Bahia" src="/static/images/partners/casasbahia-logo.png"/>
+     </a>
+    </div>
+    <div class="col partners-banner" id="bancopan-banner-link">
+     <a aria-label="Banco pan" href="/parceiros/bancopan">
+      <img alt="Negociar dívidas Banco Pan" src="/static/images/partners/bancopan-logo.png"/>
+     </a>
+    </div>
+    <div class="w-100">
+    </div>
+    <div class="col partners-banner" id="crediativos-banner-link">
+     <a aria-label="Crediativos" href="/parceiros/crediativos">
+      <img alt="Negociar dívidas Crediativos" src="/static/images/partners/crediativos-logo.png"/>
+     </a>
+    </div>
+    <div class="col partners-banner">
+    </div>
+    <div class="col partners-banner">
+    </div>
+    <div class="col partners-banner">
+    </div>
+   </div>
+  </div>
+  <div id="header-know-more-content">
+   <span>
+    <a href="/seguranca" id="btn__dicas__de__seguranca__desktop__menu">
+     Dicas de segurança
+    </a>
+   </span>
+   <span>
+    <a href="https://melembre.com.br/" id="btn__dicas__de__seguranca__desktop__menu" target="_blank">
+     MeLembre
+    </a>
+   </span>
+  </div>
+  <div id="menu-bar-mobile" style="display: none; position: fixed;">
+   <nav id="nav-hide-menu">
+    <li>
+     <a href="/" id="btn__home__mobile__menu">
+      Home
+     </a>
+    </li>
+    <li>
+     <a href="/quem-somos" id="btn__quem__somos__mobile__menu">
+      Quem somos
+     </a>
+    </li>
+    <li id="partners-btn">
+     <span>
+      Parceiros
+     </span>
+     <i class="fa fa-chevron-right">
+     </i>
+    </li>
+    <li>
+     <a href="/blog" id="btn__blog__mobile__menu">
+      Blog
+     </a>
+    </li>
+    <li id="know-more-btn">
+     <span>
+      Saiba mais
+     </span>
+     <i aria-hidden="true" class="fa fa-chevron-right">
+     </i>
+    </li>
+    <li>
+     <a href="/ajuda" id="btn__ajuda__mobile__menu">
+      Ajuda
+     </a>
+    </li>
+   </nav>
+   <nav id="nav-partners" style="display: none; position: fixed;">
+    <li id="btn__back__to__menu__partners__mobile">
+     <i aria-hidden="true" class="fa fa-arrow-left back-top-manu">
+     </i>
+     <span>
+      <b>
+       Voltar
+      </b>
+     </span>
+    </li>
+    <li id="santander-link">
+     <a href="/parceiros/santander">
+      Santander
+     </a>
+    </li>
+    <li id="itau-link">
+     <a href="/parceiros/itau">
+      Itaú
+     </a>
+    </li>
+    <li id="pernambucanas-link">
+     <a href="/parceiros/pernambucanas">
+      Pernambucanas
+     </a>
+    </li>
+    <li id="portoseguro-link">
+     <a href="/parceiros/portoseguro">
+      Porto Seguro
+     </a>
+    </li>
+    <li id="digio-link">
+     <a href="/parceiros/digio">
+      Digio
+     </a>
+    </li>
+    <li id="ipanema-link">
+     <a href="/parceiros/ipanema">
+      Ipanema
+     </a>
+    </li>
+    <li id="itapeva-link">
+     <a href="/parceiros/itapeva">
+      Itapeva
+     </a>
+    </li>
+    <li id="casasbahia-link">
+     <a href="/parceiros/casasbahia">
+      Casas Bahia
+     </a>
+    </li>
+    <li id="pontofrio-link">
+     <a href="/parceiros/pontofrio">
+      Ponto Frio
+     </a>
+    </li>
+    <li id="geru-link">
+     <a href="/parceiros/geru">
+      Geru
+     </a>
+    </li>
+    <li id="mercadolivre-link">
+     <a href="/parceiros/mercadolivre">
+      Mercadolivre
+     </a>
+    </li>
+    <li id="bancopan-link">
+     <a href="/parceiros/bancopan">
+      Banco Pan
+     </a>
+    </li>
+   </nav>
+   <nav id="nav-know-more" style="display: none; position: fixed;">
+    <li id="btn__back__to__menu__know__more__mobile">
+     <i aria-hidden="true" class="fa fa-arrow-left back-top-manu">
+     </i>
+     <span>
+      <b>
+       Voltar
+      </b>
+     </span>
+    </li>
+    <li>
+     <a href="/seguranca" id="btn__seguranca__mobile">
+      Dicas de segurança
+     </a>
+    </li>
+    <li>
+     <a href="https://melembre.com.br" id="btn__seguranca__mobile">
+      MeLembre
+     </a>
+    </li>
+   </nav>
+  </div>
+  <article>
+   <div aria-hidden="true" aria-labelledby="exampleModalLabel" class="modal fade" id="exampleModal" role="dialog" tabindex="-1">
+    <div class="modal-dialog" role="document">
+     <div class="aviso-content modal-content">
+      <div class="aviso-card">
+       <div class="aviso-close">
+        <img alt="" data-dismiss="modal" src="/static/images/close-modal.png"/>
+       </div>
+       <div class="aviso-content">
+        <img alt="" src="/static/images/icon-modal.png"/>
+        <p id="modal-title">
+         <span class="aviso-type">
+         </span>
+         inválido
+        </p>
+        <p id="form-message">
+         Preencha corretamente o seu
+         <span class="aviso-type">
+         </span>
+         .
+        </p>
+        <button aria-label="Close" data-dismiss="modal">
+         Ok
+        </button>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <section class="negotiate-your-debits" id="negotiate-your-debits">
+    <div class="negotiate-debits-text">
+     <h1>
+      Negocie na QuiteJá a sua dívida
+      <span class="hidden">
+      </span>
+     </h1>
+     <img alt="" id="logo-" loading="lazy" rel="preload" src="" type="image"/>
+     <p>
+      Resolva a sua vida financeira de maneira segura e sem complicação
+     </p>
+     <form action="/negociar" class="deal-input-container customer-type" id="negocie-form" method="POST">
+      <div id="cpf-or-cnpj">
+       <div id="formChecks">
+        <div class="form-check" id="document__cpf">
+         <label class="form-check-label" for="cpf__radios">
+          <input checked="" class="custom-radio" id="cpf__radios" name="customer-type" type="radio" value="pf"/>
+          <div class="radio-radio">
+          </div>
+          Pessoa Física
+         </label>
+        </div>
+        <div class="form-check" id="document__cnpj">
+         <label class="form-check-label" for="cnpj__radios">
+          <input class="form-check-input custom-radio" id="cnpj__radios" name="customer-type" type="radio" value="pj"/>
+          <div class="radio-radio">
+          </div>
+          Pessoa Jurídica
+         </label>
+        </div>
+       </div>
+      </div>
+      <input aria-describedby="emailHelp" class="form-control document" id="identification" name="document" placeholder="Informe aqui o seu CPF" required="" type="tel"/>
+      <input id="referrer" name="referrer" type="hidden" value=""/>
+      <button btn-block="" btn-lg="" class="btn btn-primary" id="btn-pay-debts" type="submit">
+       Negociar dívida
+      </button>
+     </form>
+    </div>
+    <div class="negotiate-image">
+     <picture>
+      <source media="(min-width: 600px)" srcset="/static/images/banner.jpg"/>
+      <source media="(max-width: 600px)" srcset=""/>
+      <img alt="Moça olhando diretamente e com um celular na mão" rel="preload" src="/static/images/banner.jpg" type="image"/>
+     </picture>
+    </div>
+   </section>
+   <section class="clean-your-name">
+    <div id="clean-your-name-content">
+     <h2 class="clean-your-name-title">
+      <span>
+       <span class="underline--text">
+        Limpar
+       </span>
+       o seu nome com a QuiteJá é mais
+       <span class="circle--text">
+        fácil
+       </span>
+       do que você imagina
+      </span>
+     </h2>
+     <div id="clean-your-name-text">
+      <div>
+       <img alt="Numero 1" id="numero-1" loading="lazy" src="/static/images/1.png"/>
+       <div>
+        <h3>
+         <span class="sub--clean-your-name">
+          Consulte
+         </span>
+         seu CPF ou CNPJ
+        </h3>
+        <p>
+         Para começar, você precisa informar o seu CPF ou CNPJ para que possamos identificar você.
+        </p>
+       </div>
+      </div>
+      <div>
+       <img alt="Numero 2" id="numero-2" loading="lazy" src="/static/images/2.png"/>
+       <div>
+        <img alt="destaque" class="img-destaque" id="circulo-confirme" loading="lazy" src="/static/images/destaque-circulo.png"/>
+        <h3>
+         Confirme os seus dados
+        </h3>
+        <p>
+         Veja se o seu nome está correto e informe o seu celular para enviarmos um código de negociação por SMS.
+        </p>
+       </div>
+      </div>
+      <div>
+       <img alt="" id="numero-3" loading="lazy" src="/static/images/3.png"/>
+       <div>
+        <img alt="destaque" class="img-destaque" id="aspas-escolha" loading="lazy" src="/static/images/destaque-plim.png"/>
+        <h3>
+         Escolha uma proposta
+        </h3>
+        <p>
+         Confira as nossas propostas ou simule a ideal para você. Confirme a que preferir e realize o pagamento.
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+   </section>
+   <section class="negociation-phone">
+    <p>
+     Quer
+     <b>
+      negociar
+     </b>
+     por telefone?
+     <br/>
+     Ligue
+     <b>
+      <a href="tel:0800 023 6506">
+       0800 023 6506
+      </a>
+     </b>
+    </p>
+   </section>
+   <section class="partners">
+    <div class="partners-content">
+     <h2>
+      Nossos Parceiros
+     </h2>
+     <p>
+      Muitos outros credores são parceiros da QuiteJá; confira!
+     </p>
+     <div class="partners-images">
+      <a href="/parceiros/santander" id="santander">
+       <picture>
+        <source media="(min-width: 601px" srcset="/static/images/partners/santander-logo.png"/>
+        <source media="(max-width: 600px)" srcset="/static/images/partners/santander-logo-small.png"/>
+        <img alt="Negociar dívidas Santander" loading="lazy" src="/static/images/partners/santander-logo.png"/>
+       </picture>
+      </a>
+      <a href="/parceiros/itau" id="itau">
+       <picture>
+        <source media="(min-width: 601px" srcset="/static/images/partners/itau-logo.png"/>
+        <source media="(max-width: 600px)" srcset="/static/images/partners/itau-logo-menu.png"/>
+        <img alt="Negociar dívidas Santander" loading="lazy" src="/static/images/partners/itau-logo.png"/>
+       </picture>
+      </a>
+      <a href="/parceiros/portoseguro" id="portoseguro">
+       <picture>
+        <source media="(min-width: 601px" srcset="/static/images/partners/portoseguro-logo.png"/>
+        <source media="(max-width: 600px)" srcset="/static/images/partners/portoseguro-logo-small.png"/>
+        <img alt="Negociar dívidas Porto seguro" loading="lazy" src="/static/images/partners/portoseguro-logo.png"/>
+       </picture>
+      </a>
+      <a href="/parceiros/itapeva" id="itapeva">
+       <picture>
+        <source media="(min-width: 601px" srcset="/static/images/partners/itapeva-logo.png"/>
+        <source media="(max-width: 600px)" srcset="/static/images/partners/itapeva-logo-small.png"/>
+        <img alt="Negociar dívidas itapeva" loading="lazy" src="/static/images/partners/itapeva-logo.png"/>
+       </picture>
+      </a>
+      <a href="/parceiros/casasbahia" id="casasbahia">
+       <picture>
+        <source media="(min-width: 601px" srcset="/static/images/partners/casasbahia-logo.png"/>
+        <source media="(max-width: 600px)" srcset="/static/images/partners/casasbahia-logo-small.png"/>
+        <img alt="Negociar dívidas Casas bahia" loading="lazy" src="/static/images/partners/casasbahia-logo.png"/>
+       </picture>
+      </a>
+      <a href="/parceiros/pernambucanas" id="pernambucanas">
+       <picture>
+        <source media="(min-width: 601px" srcset="/static/images/partners/pernambucanas-logo.png"/>
+        <source media="(max-width: 600px)" srcset="/static/images/partners/pernambucanas-logo-small.png"/>
+        <img alt="Negociar dívidas Pernambucanas" loading="lazy" src="/static/images/partners/pernambucanas-logo.png"/>
+       </picture>
+      </a>
+      <a href="/parceiros/digio" id="digio">
+       <picture>
+        <source media="(min-width: 601px" srcset="/static/images/partners/digio-logo.png"/>
+        <source media="(max-width: 600px)" srcset="/static/images/partners/digio-logo-small.png"/>
+        <img alt="Negociar dívidas Digio" loading="lazy" src="/static/images/partners/digio-logo.png"/>
+       </picture>
+      </a>
+      <a href="/parceiros/ipanema" id="ipanema">
+       <picture>
+        <source media="(min-width: 601px" srcset="/static/images/partners/ipanema/logo.png"/>
+        <source media="(max-width: 600px)" srcset="/static/images/partners/ipanema/logo.png"/>
+        <img alt="Negociar dívidas Digio" loading="lazy" src="/static/images/partners/ipanema/logo.png"/>
+       </picture>
+      </a>
+      <a href="/parceiros/pontofrio" id="pontofrio">
+       <picture>
+        <source media="(min-width: 601px" srcset="/static/images/partners/pontofrio-logo.png"/>
+        <source media="(max-width: 600px)" srcset="/static/images/partners/pontofrio-logo.png"/>
+        <img alt="Negociar dívidas Pontofrio" loading="lazy" src="/static/images/partners/pontofrio-logo.png"/>
+       </picture>
+      </a>
+      <a href="/parceiros/geru" id="geru">
+       <picture>
+        <source media="(min-width: 601px" srcset="/static/images/partners/geru-logo.png"/>
+        <source media="(max-width: 600px)" srcset="/static/images/partners/geru-logo-small.png"/>
+        <img alt="Negociar dívidas Geru" loading="lazy" src="/static/images/partners/geru-logo.png"/>
+       </picture>
+      </a>
+      <a href="/parceiros/mercadolivre" id="mercadolivre">
+       <picture>
+        <source media="(min-width: 601px" srcset="/static/images/partners/mercadolivre-logo.png"/>
+        <source media="(max-width: 600px)" srcset="/static/images/partners/mercadolivre-logo-small.png"/>
+        <img alt="Negociar dívidas Mercado Livre" loading="lazy" src="/static/images/partners/mercadolivre-logo.png"/>
+       </picture>
+      </a>
+      <a href="/parceiros/bancopan" id="bancoPan">
+       <picture>
+        <source media="(min-width: 601px" srcset="/static/images/partners/bancopan-logo.png"/>
+        <source media="(max-width: 600px)" srcset="/static/images/partners/bancopan-logo-small.png"/>
+        <img alt="Negociar dívidas Banco Pan" loading="lazy" src="/static/images/partners/bancopan-logo.png"/>
+       </picture>
+      </a>
+      <a href="/parceiros/crediativos" id="crediativos">
+       <picture>
+        <source media="(min-width: 601px" srcset="/static/images/partners/crediativos-logo.png"/>
+        <source media="(max-width: 600px)" srcset="/static/images/partners/crediativos-logo-small.png"/>
+        <img alt="Negociar dívidas CrediAtivos" loading="lazy" src="/static/images/partners/crediativos-logo.png"/>
+       </picture>
+      </a>
+     </div>
+    </div>
+   </section>
+   <script type="text/javascript">
+    let parceiro = '';
+    if( parceiro != '' ){
+        let elem = document.querySelector(`.partners-images #`)
+        elem.remove();
+    }
+   </script>
+   <section class="how-we-do">
+    <div class="how-we-do-content">
+     <div class="how-we-do-img">
+      <picture>
+       <source media="(min-width:601px)" srcset="/static/images/moça-bonita.png"/>
+       <source media="(max-width:600px)" srcset=""/>
+       <img alt="Mulher sentada ao chão com celular na mão" loading="lazy" src="/static/images/moça-bonita.png"/>
+      </picture>
+     </div>
+     <div class="how-we-do-text">
+      <div class="how-we-do-title" id="hoWeDoTitle">
+       <h2>
+        Como nós fazemos diferente
+       </h2>
+      </div>
+      <div class="how-we-do-cards" id="howWeDoCards">
+       <div class="how-we-do-card">
+        <img alt="Com desconto" loading="lazy" src="/static/images/icon-melhoe-proposta.png"/>
+        <h3>
+         <b>
+          Melhores propostas
+         </b>
+        </h3>
+        <p>
+         Estamos sempre em busca das
+         <b>
+          melhores propostas para você.
+         </b>
+         Assim você
+negocia dívidas e pode garantir descontos, parcelamento e até mesmo juros zero.
+        </p>
+       </div>
+       <div class="how-we-do-card">
+        <img alt="Segurança" loading="lazy" src="/static/images/icon-segurança.png"/>
+        <h3>
+         <b>
+          Cuidamos da segurança
+         </b>
+        </h3>
+        <p>
+         Você e suas informações estão protegidos com a gente.
+         <b>
+          Respeitamos os melhores protocolos de
+segurança
+         </b>
+         para garantir que você não tenha problemas.
+        </p>
+       </div>
+       <div class="how-we-do-card">
+        <img alt="Sem custos" loading="lazy" src="/static/images/icon-sem-custos.png"/>
+        <h3>
+         <b>
+          Sem custos extras
+         </b>
+        </h3>
+        <p>
+         Consultar CPF ou CNPJ em nosso site não gera nenhum custo adicional.
+         <b>
+          Você não paga nada além do que for combinado
+         </b>
+         na hora de negociar o seu acordo.
+        </p>
+       </div>
+       <div class="how-we-do-card">
+        <img alt="Com tecnologia" loading="lazy" src="/static/images/icon-tecnologia.png"/>
+        <h3>
+         <b>
+          Somos tecnológicos
+         </b>
+        </h3>
+        <p>
+         Queremos
+         <b>
+          transformar a sua experiência por meio da tecnologia
+         </b>
+         , para que você escolha quando, onde e como
+negociar por meio de uma plataforma simples e prática.
+        </p>
+       </div>
+      </div>
+     </div>
+     <div class="carousel slide" data-ride="carousel" id="carouselWeDo">
+      <div class="carousel-inner carousel-banners">
+       <div class="carousel-item card-box active" id="0">
+        <div>
+         <img alt="Com desconto" id="com-desconto" loading="lazy" src="/static/images/icon-melhoe-proposta.png"/>
+         <h3>
+          <b>
+           Melhores propostas
+          </b>
+         </h3>
+         <p>
+          Estamos sempre em busca das
+          <b>
+           melhores propostas para você.
+          </b>
+          Assim você
+negocia dívidas e pode garantir descontos, parcelamento e até mesmo juros zero.
+         </p>
+        </div>
+       </div>
+       <div class="carousel-item card-box" id="1">
+        <div>
+         <img alt="Segurança" id="seguranca" loading="lazy" src="/static/images/icon-segurança.png"/>
+         <h3>
+          Cuidamos da segurança
+         </h3>
+         <p>
+          Você e suas informações estão protegidos com a gente.
+          <b>
+           Respeitamos os melhores protocolos de
+segurança
+          </b>
+          para
+garantir que você não tenha problemas.
+         </p>
+        </div>
+       </div>
+       <div class="carousel-item card-box" id="2">
+        <div>
+         <img alt="Sem custos" id="sem-custos" loading="lazy" src="/static/images/icon-sem-custos.png"/>
+         <h3>
+          Sem custos extras
+         </h3>
+         <p>
+          Consultar CPF ou CNPJ em nosso site não gera nenhum custo adicional.
+          <b>
+           Você não paga nada além do que for combinado
+          </b>
+          na hora de negociar o seu acordo. Com a
+gente é assim: não cobramos nenhum valor extra nas nossas negociações.
+         </p>
+        </div>
+       </div>
+       <div class="carousel-item card-box" id="3">
+        <div>
+         <img alt="Com tecnologia" id="com-tecnologia" loading="lazy" src="/static/images/icon-tecnologia.png"/>
+         <h3>
+          Somos tecnológicos
+         </h3>
+         <p>
+          Queremos
+          <b>
+           transformar a sua experiência por meio da tecnologia
+          </b>
+          , para que você escolha
+quando e
+onde
+negociar
+em uma plataforma simples e prática.
+         </p>
+        </div>
+       </div>
+      </div>
+      <ol class="carousel-indicators">
+       <li class="active" data-slide-to="0" data-target="#carouselWeDo">
+       </li>
+       <li data-slide-to="1" data-target="#carouselWeDo">
+       </li>
+       <li data-slide-to="2" data-target="#carouselWeDo">
+       </li>
+       <li data-slide-to="3" data-target="#carouselWeDo">
+       </li>
+      </ol>
+     </div>
+    </div>
+   </section>
+   <section class="help-a-millions">
+    <div class="help-a-millions-content">
+     <div id="help-a-millions-text">
+      <div id="help-a-millions-title">
+       <h2>
+        Nós da QuiteJá ajudamos milhões de pessoas a quitarem suas dívidas
+       </h2>
+      </div>
+      <div>
+       <div class="help-a-millions-subtitle">
+        <h3>
+         +2,6
+        </h3>
+        <h4>
+         milhões
+        </h4>
+       </div>
+       <p>
+        Já fizemos mais de
+        <b>
+         2,6 milhões acordos
+        </b>
+        com descontos e parcelas que cabem no bolso.
+       </p>
+      </div>
+      <div>
+       <div class="help-a-millions-subtitle">
+        <h3>
+         24h
+        </h3>
+       </div>
+       <p>
+        Você pode negociar
+        <b>
+         24 horas por dia, 7 dias por semana
+        </b>
+        . Nossa plataforma está sempre disponível!
+       </p>
+      </div>
+      <div>
+       <div class="help-a-millions-subtitle">
+        <h3>
+         R$ 5,2
+        </h3>
+        <h4>
+         bilhões
+        </h4>
+       </div>
+       <p>
+        Com a gente é possível pagar boleto com desconto! Nossos clientes já
+economizaram mais de
+        <b style="white-space: nowrap">
+         R$ 5,2 bilhões em descontos
+        </b>
+        concedidos.
+       </p>
+      </div>
+     </div>
+     <div class="couple">
+      <figure>
+       <img alt="Casal sentado no chão enquanto mulherrepousa no ombro no homem" id="img-couple" loading="lazy" src="/static/images/casal-01.png"/>
+      </figure>
+     </div>
+    </div>
+   </section>
+   <section>
+    <div class="our-stamp-content">
+     <img alt="selo" id="selo" src="/static/images/selo-small.png"/>
+    </div>
+   </section>
+   <section class="our-clients">
+    <div class="our-clients-content">
+     <div class="our-client-text">
+      <h2>
+       O que dizem os nossos clientes
+      </h2>
+      <figure id="fire-img">
+       <img alt="Circulo com flecha para 'Quentinho no coração'" class="img-text-quetinho" loading="lazy" src="/static/images/text-quentinho-all.png"/>
+       <img alt="Circulo verde" class="img-text-circle" loading="lazy" src="/static/images/circle.png"/>
+      </figure>
+     </div>
+     <div class="carousel slide" data-interval="false" data-ride="carousel" id="carouselClients">
+      <div class="carousel-inner" id="inner-carousel-clients">
+       <div class="carousel-item our-clients-item active">
+        <div>
+         <p>
+          Quero agradecer à família QuiteJá por ter me proporcionado o melhor para eu poder limpar o meu nome.
+Fiquei MUITO feliz, pois tirei um problema da mente. Que Deus abençoea vida de todos! Um forte abraço,
+com muito carinho.
+          <br/>
+         </p>
+         <h3>
+          Weliton Neves
+         </h3>
+        </div>
+        <div>
+         <p>
+          Perfeito agora! Adorei o atendimento, o respeito e a solução dos problemas com vocês...
+Esse já é o segundo acordo com vocês, e o atendimento é espetacular!
+          <br/>
+         </p>
+         <h3>
+          Diana Pires Santos
+         </h3>
+        </div>
+       </div>
+       <div class="carousel-item our-clients-item">
+        <div>
+         <p>
+          Eu paguei e, no outro dia, o meu nome estava limpo. Obrigada pelo excelente trabalho e pela agilidade.
+          <br/>
+         </p>
+         <h3>
+          Girlei Andrade de Melo
+         </h3>
+        </div>
+        <div>
+         <p>
+          Melhor negociadora, gente top demais! Vale a pena. Hipersatisfeita! Muito obrigada por me ajudarem!
+          <br/>
+         </p>
+         <h3>
+          Aline Teixeira
+         </h3>
+        </div>
+       </div>
+       <div class="carousel-item our-clients-item">
+        <div>
+         <p>
+          Hoje foi confirmada a minha última parcela com vocês. Porém, vocês são tão organizados e
+atenciosos que eu vou sentir falta de pagar a vocês. Se toda cobrança fosse feita dessa forma, existiriam
+menos endividados. Vocês estão de parabéns!
+          <br/>
+         </p>
+         <h3>
+          Juliana Dantas
+         </h3>
+        </div>
+        <div>
+         <p>
+          Obrigada pelo carinho e parabéns por me ajudarem. Estou muito feliz, porque a equipe QuiteJá me ajudou.
+Beijo e muita saúde e paz para todos vocês.
+          <br/>
+         </p>
+         <h3>
+          Tereza Cristina F Gonçalves
+         </h3>
+        </div>
+       </div>
+      </div>
+      <a class="carousel-control-prev" data-slide="prev" href="#carouselClients" id="control-next" role="button">
+       <figure>
+        <img alt="seta" loading="lazy" src="/static/images/seta-01.png"/>
+       </figure>
+      </a>
+      <a class="carousel-control-next" data-slide="next" href="#carouselClients" id="control-prev" role="button">
+       <figure>
+        <img alt="seta" loading="lazy" src="/static/images/seta-02.png"/>
+       </figure>
+      </a>
+     </div>
+     <div class="carousel slide" data-ride="carousel" id="carouselClientsMobile">
+      <div class="carousel-inner">
+       <div class="carousel-item our-clients-item">
+        <div>
+         <p>
+          Eu paguei e, no outro dia, o meu nome estava limpo. Obrigada pelo excelente trabalho e pela agilidade.
+          <br/>
+         </p>
+         <h3>
+          Girlei Andrade de Melo
+         </h3>
+        </div>
+       </div>
+       <div class="carousel-item our-clients-item">
+        <div>
+         <p>
+          Melhor negociadora, gente top demais! Vale a pena. Hipersatisfeita! Muito obrigada por me ajudarem!
+          <br/>
+         </p>
+         <h3>
+          Aline Teixeira
+         </h3>
+        </div>
+       </div>
+       <div class="carousel-item our-clients-item active">
+        <div>
+         <p>
+          Quero agradecer à família QuiteJá por ter me proporcionado o melhor para eu poder limpar o meu nome.
+Fiquei MUITO feliz, pois tirei um problema da mente. Que Deus abençoea vida de todos! Um forte abraço,
+com muito carinho.
+          <br/>
+         </p>
+         <h3>
+          Weliton Neves
+         </h3>
+        </div>
+       </div>
+       <div class="carousel-item our-clients-item">
+        <div>
+         <p>
+          Perfeito agora! Adorei o atendimento, o respeito e a solução dos problemas com vocês...
+Esse já é o segundo acordo com vocês, e o atendimento é espetacular!
+          <br/>
+         </p>
+         <h3>
+          Diana Pires Santos
+         </h3>
+        </div>
+       </div>
+       <div class="carousel-item our-clients-item">
+        <div>
+         <p>
+          Hoje foi confirmada a minha última parcela com vocês. Porém, vocês são tão organizados e
+atenciosos que eu vou sentir falta de pagar a vocês. Se toda cobrança fosse feita dessa forma, existiriam
+menos endividados. Vocês estão de parabéns!
+          <br/>
+         </p>
+         <h3>
+          Juliana Dantas
+         </h3>
+        </div>
+       </div>
+       <div class="carousel-item our-clients-item">
+        <div>
+         <p>
+          Obrigada pelo carinho e parabéns por me ajudarem. Estou muito feliz, porque a equipe QuiteJá me ajudou.
+Beijo e muita saúde e paz para todos vocês.
+          <br/>
+         </p>
+         <h3>
+          Tereza Cristina F Gonçalves
+         </h3>
+        </div>
+       </div>
+      </div>
+      <a class="carousel-control-prev" data-slide="prev" href="#carouselClientsMobile" role="button">
+       <figure>
+        <img alt="seta" loading="lazy" src="/static/images/seta-01.png"/>
+       </figure>
+      </a>
+      <a class="carousel-control-next" data-slide="next" href="#carouselClientsMobile" role="button">
+       <figure>
+        <img alt="seta" loading="lazy" src="/static/images/seta-02.png"/>
+       </figure>
+      </a>
+      <ol class="carousel-indicators">
+       <li class="active" data-slide-to="0" data-target="#carouselClientsMobile">
+       </li>
+       <li class="" data-slide-to="1" data-target="#carouselClientsMobile">
+       </li>
+       <li class="" data-slide-to="2" data-target="#carouselClientsMobile">
+       </li>
+       <li class="" data-slide-to="3" data-target="#carouselClientsMobile">
+       </li>
+       <li class="" data-slide-to="4" data-target="#carouselClientsMobile">
+       </li>
+       <li class="" data-slide-to="5" data-target="#carouselClientsMobile">
+       </li>
+      </ol>
+     </div>
+    </div>
+   </section>
+   <section class="reclame-aqui">
+    <div class="reclame-aqui-content">
+     <picture>
+      <source media="(min-width: 600px)" srcset="/static/images/reclame-aqui/atendimento-quiteja.png"/>
+      <source media="(max-width: 600px)" srcset="/static/images/reclame-aqui/m-atendimento-quiteja.png"/>
+      <img alt="Mulher sorrindo" loading="lazy" src="/static/images/reclame-aqui/atendimento-quiteja.png"/>
+     </picture>
+     <div class="reclame-aqui-content">
+      <div class="reclame-aqui-content-card">
+       <h3>
+        QuiteJá é
+        <span class="underline">
+         excelência
+        </span>
+        no atendimento
+       </h3>
+       <p>
+        Temos como compromisso te ajudar em todas
+as etapas da quitação - todas mesmo! Prova disso,
+é que
+        <b>
+         possuímos o Selo RA1000 do ReclameAQUI®.
+        </b>
+       </p>
+       <p>
+        Esse selo representa a reputação máxima que uma empresa pode atingir dentro do Reclame AQUI. Isso significa
+que
+você tem total amparo e segurança ao negociar com a gente!
+       </p>
+       <p>
+        Só quem tem um atendimento humanizado de verdade pode
+        <b>
+         garantir que você tenha a melhor experiência de
+quitação!
+        </b>
+       </p>
+       <a class="reclame-aqui-content-card-logo" href="https://www.reclameaqui.com.br/empresa/quiteja_187542/" target="_blank">
+        <img alt="Selo reclame aqui" loading="lazy" src="/static/images/reclame-aqui/logo.png?v=2.123.0"/>
+       </a>
+      </div>
+     </div>
+    </div>
+   </section>
+   <section class="quiteja-midia" id="quiteja-midia">
+    <div class="quiteja-midia-text">
+     <div class="midia-title">
+      <h2>
+       O que falam da QuiteJá na mídia
+      </h2>
+      <img alt="Circulo verde" loading="lazy" src="/static/images/quem-somos/circuloVazio.png"/>
+     </div>
+     <div class="carousel slide" data-ride="carousel" id="carouselExampleIndicators">
+      <div class="carousel-inner">
+       <div class="carousel-item box-center active">
+        <div class="box-radius">
+         <img alt="investe" id="investe" loading="lazy" src="/static/images/quem-somos/investe.png"/>
+         <p>
+          Quase metade dos brasileiros tem dívida entre R$ 1 mil e R$ 5 mil e cartão de crédito é o principal vilão
+         </p>
+         <a href="https://valorinveste.globo.com/objetivo/organize-as-contas/noticia/2020/10/04/quase-metade-dos-brasileiros-tem-divida-entre-r-1-mil-e-r-5-mil-e-cartao-de-credito-e-o-principal-vilao.ghtml" rel="noopener" target="_blank">
+          <button class="midia-button">
+           Ler notícia
+          </button>
+         </a>
+        </div>
+       </div>
+       <div class="carousel-item box-center">
+        <div class="box-radius">
+         <img alt="sp" id="sp" loading="lazy" src="/static/images/quem-somos/sp.png"/>
+         <p>
+          7 em cada 10 paulistas estão endividados, aponta pesquisa
+         </p>
+         <a href="https://globoplay.globo.com/v/8896200/" rel="noopener" target="_blank">
+         </a>
+         <button class="midia-button">
+          Ler notícia
+         </button>
+        </div>
+       </div>
+       <div class="carousel-item box-center">
+        <div class="box-radius">
+         <img alt="gazeta" id="gazeta" loading="lazy" src="/static/images/quem-somos/gazeta.png"/>
+         <p>
+          Acelerada na pandemia, digitalização favorece produtos e serviços de fintechs paranaenses
+         </p>
+         <a href="https://www.gazetadopovo.com.br/gazz-conecta/acao-inovadora/digitalizacao-da-economia-favorece-produtos-e-servicos-de-fintechs-paranaenses/" rel="noopener" target="_blank">
+          <button class="midia-button">
+           Ler notícia
+          </button>
+         </a>
+        </div>
+       </div>
+       <div class="carousel-item box-center">
+        <div class="box-radius">
+         <img alt="dinheiro" id="dinheiro" loading="lazy" src="/static/images/quem-somos/dinheiro.png"/>
+         <p>
+          O desconto em uma negociação hoje pode chegar a 65% ou 70%, dependendo do perfil da dívida
+         </p>
+         <a href="https://www.istoedinheiro.com.br/o-desconto-em-uma-negociacao-hoje-pode-chegar-a-6" rel="noopener" target="_blank">
+          <button class="midia-button">
+           Ler notícia
+          </button>
+         </a>
+        </div>
+       </div>
+      </div>
+      <ol class="carousel-indicators" id="indicators-whe-we-are">
+       <li class="active" data-slide-to="0" data-target="#carouselExampleIndicators">
+       </li>
+       <li data-slide-to="1" data-target="#carouselExampleIndicators">
+       </li>
+       <li data-slide-to="2" data-target="#carouselExampleIndicators">
+       </li>
+       <li data-slide-to="3" data-target="#carouselExampleIndicators">
+       </li>
+      </ol>
+     </div>
+     <div class="midia-cards">
+      <div class="midia-card-size text-left">
+       <div class="card-body">
+        <img alt="investe" loading="lazy" src="/static/images/quem-somos/investe.png"/>
+        <p class="midia-card-text">
+         Quase metade dos brasileiros tem dívida entre R$ 1 mil e R$ 5 mil e cartão de
+crédito é o principal vilão
+        </p>
+        <a href="https://valorinveste.globo.com/objetivo/organize-as-contas/noticia/2020/10/04/quase-metade-dos-brasileiros-tem-divida-entre-r-1-mil-e-r-5-mil-e-cartao-de-credito-e-o-principal-vilao.ghtml" rel="noopener" target="_blank">
+         <button class="midia-button">
+          Ler notícia
+         </button>
+        </a>
+       </div>
+      </div>
+      <div class="midia-card-size text-left">
+       <div class="card-body">
+        <img alt="investe" loading="lazy" src="/static/images/quem-somos/sp.png"/>
+        <p class="midia-card-text">
+         7 em cada 10 paulistas estão endividados, aponta pesquisa
+        </p>
+        <a href="https://globoplay.globo.com/v/8896200/" rel="noopener" target="_blank">
+         <button class="midia-button">
+          Ler notícia
+         </button>
+        </a>
+       </div>
+      </div>
+      <div class="midia-card-size text-left">
+       <div class="card-body">
+        <img alt="investe" loading="lazy" src="/static/images/quem-somos/gazeta.png"/>
+        <p class="midia-card-text">
+         Acelerada na pandemia, digitalização favorece produtos e serviços de fintechs
+paranaenses
+        </p>
+        <a href="https://www.gazetadopovo.com.br/gazz-conecta/acao-inovadora/digitalizacao-da-economia-favorece-produtos-e-servicos-de-fintechs-paranaenses/" rel="noopener" target="_blank">
+         <button class="midia-button">
+          Ler notícia
+         </button>
+        </a>
+       </div>
+      </div>
+      <div class="midia-card-size text-left">
+       <div class="card-body">
+        <img alt="investe" loading="lazy" src="/static/images/quem-somos/dinheiro.png"/>
+        <p class="midia-card-text">
+         O desconto em uma negociação hoje pode chegar a 65% ou 70%, dependendo do perfil da
+dívida
+        </p>
+        <a href="https://www.istoedinheiro.com.br/o-desconto-em-uma-negociacao-hoje-pode-chegar-a-6" rel="noopener" target="_blank">
+         <button class="midia-button">
+          Ler notícia
+         </button>
+        </a>
+       </div>
+      </div>
+     </div>
+    </div>
+   </section>
+   <section class="help float-panel">
+    <div class="help-content">
+     <h2>
+      Precisa de
+      <span id="ajuda-destaque">
+       ajuda?
+      </span>
+     </h2>
+     <p>
+      Quite suas dúvidas com as perguntas mais
+frequentes sobre a nossa empresa e negociação.
+     </p>
+     <div class="accordion" id="accordion" itemscope="" itemtype="https://schema.org/FAQPage">
+      <h2 class="category-title" data-category="12">
+       Negociação
+      </h2>
+      <div class="card card-help" data-category="12" itemprop="mainEntity" itemscope="" itemtype="https://schema.org/Question">
+       <div class="heading" data-category="12" data-id="70">
+        <h3 class="mb-0">
+         <button aria-expanded="false" class="btn btn-link btn-block text-left btn-help collapsed" data-target="#collapse-12-70" data-toggle="collapse" id="btn-colapse-12-70" itemprop="name" type="button">
+          Como faço para negociar?
+          <img alt="Icone de mostrar mais" height="26" src="/static/images/icons/+.png" width="26"/>
+         </button>
+        </h3>
+       </div>
+       <div class="collapse" data-parent="#accordion" id="collapse-12-70">
+        <div class="card-body" id="faq-text-content" itemprop="acceptedAnswer" itemscope="" itemtype="https://schema.org/Answer">
+         <span itemprop="text">
+          <p>
+           <span style="font-weight: 400;">
+            Caso tenha recebido um SMS, e-mail ou push, neles você encontrará um link para acessar a sua negociação.
+           </span>
+          </p>
+          <p>
+          </p>
+          <p>
+           <span style="font-weight: 400;">
+            Não recebeu uma mensagem nossa? Não se preocupe! Você pode conferir as propostas disponíveis diretamente aqui no nosso site, basta informar seu CPF (ou CNPJ) para buscarmos as melhores ofertas de negociação para o seu débito em aberto.
+           </span>
+           <strong>
+            <a href="#negotiate-your-debits">
+             <em>
+              Vamos lá?
+             </em>
+            </a>
+           </strong>
+          </p>
+          <p>
+          </p>
+          <p>
+           <span style="font-weight: 400;">
+            Você também pode negociar por telefone ligando para o número 0800 023 6506.
+           </span>
+          </p>
+          <p>
+          </p>
+          <p>
+           <span style="font-weight: 400;">
+            Ah! E a nossa atendente virtual Beth, pode te ligar sempre que tivermos novidades e ofertas imperdíveis para lhe oferecer.
+           </span>
+          </p>
+         </span>
+        </div>
+       </div>
+      </div>
+      <div class="card card-help" data-category="12" itemprop="mainEntity" itemscope="" itemtype="https://schema.org/Question">
+       <div class="heading" data-category="12" data-id="190">
+        <h3 class="mb-0">
+         <button aria-expanded="false" class="btn btn-link btn-block text-left btn-help collapsed" data-target="#collapse-12-190" data-toggle="collapse" id="btn-colapse-12-190" itemprop="name" type="button">
+          Tentei consultar meu CPF (ou CNPJ), mas meu número de telefone não foi reconhecido. O que devo fazer?
+          <img alt="Icone de mostrar mais" height="26" src="/static/images/icons/+.png" width="26"/>
+         </button>
+        </h3>
+       </div>
+       <div class="collapse" data-parent="#accordion" id="collapse-12-190">
+        <div class="card-body" id="faq-text-content" itemprop="acceptedAnswer" itemscope="" itemtype="https://schema.org/Answer">
+         <span itemprop="text">
+          <p>
+           Caso você tenha problemas na hora de acessar seu CPF ou CNPJ em nosso site, entre em contato conosco, basta
+           <strong>
+            <a href="https://quiteja.com.br/ajuda#help-anchor">
+             clicar aqui
+            </a>
+           </strong>
+           e informar o que está acontecendo ou, se preferir, inicie seu atendimento via
+           <strong>
+            <a href="https://quiteja.com.br/whatsapp">
+             WhatsApp
+            </a>
+           </strong>
+           . Nossa equipe vai te ajudar!
+          </p>
+         </span>
+        </div>
+       </div>
+      </div>
+      <div class="card card-help" data-category="12" itemprop="mainEntity" itemscope="" itemtype="https://schema.org/Question">
+       <div class="heading" data-category="12" data-id="191">
+        <h3 class="mb-0">
+         <button aria-expanded="false" class="btn btn-link btn-block text-left btn-help collapsed" data-target="#collapse-12-191" data-toggle="collapse" id="btn-colapse-12-191" itemprop="name" type="button">
+          Não recebi meu token de acesso. O que devo fazer?
+          <img alt="Icone de mostrar mais" height="26" src="/static/images/icons/+.png" width="26"/>
+         </button>
+        </h3>
+       </div>
+       <div class="collapse" data-parent="#accordion" id="collapse-12-191">
+        <div class="card-body" id="faq-text-content" itemprop="acceptedAnswer" itemscope="" itemtype="https://schema.org/Answer">
+         <span itemprop="text">
+          <p>
+           <span style="font-weight: 400;">
+            Por questões de segurança, para negociar aqui em nosso site você precisa receber o token de validação. Caso você não tenha recebido este código por SMS, entre em contato conosco, basta
+            <strong>
+             <a href="ajuda#help-anchor">
+              clicar aqui
+             </a>
+            </strong>
+            e informar o que está acontecendo ou, se preferir, inicie seu atendimento via
+            <strong>
+             <a href="https://quiteja.com.br/whatsapp">
+              WhatsApp
+             </a>
+            </strong>
+            . Nossa equipe vai te ajudar!
+           </span>
+          </p>
+         </span>
+        </div>
+       </div>
+      </div>
+      <div class="card card-help" data-category="12" itemprop="mainEntity" itemscope="" itemtype="https://schema.org/Question">
+       <div class="heading" data-category="12" data-id="75">
+        <h3 class="mb-0">
+         <button aria-expanded="false" class="btn btn-link btn-block text-left btn-help collapsed" data-target="#collapse-12-75" data-toggle="collapse" id="btn-colapse-12-75" itemprop="name" type="button">
+          Como faço para atualizar um número de telefone ou e-mail?
+          <img alt="Icone de mostrar mais" height="26" src="/static/images/icons/+.png" width="26"/>
+         </button>
+        </h3>
+       </div>
+       <div class="collapse" data-parent="#accordion" id="collapse-12-75">
+        <div class="card-body" id="faq-text-content" itemprop="acceptedAnswer" itemscope="" itemtype="https://schema.org/Answer">
+         <span itemprop="text">
+          <p>
+           <span style="font-weight: 400;">
+            É muito simples! Basta entrar em contato com a gente, é só
+            <strong>
+             <a href="ajuda#help-anchor">
+              clicar aqui
+             </a>
+            </strong>
+            e solicitar a atualização cadastral.
+            <strong>
+             Não se esqueça de informar o DDD no caso do número de telefone!
+            </strong>
+           </span>
+          </p>
+         </span>
+        </div>
+       </div>
+      </div>
+      <div class="card card-help" data-category="12" itemprop="mainEntity" itemscope="" itemtype="https://schema.org/Question">
+       <div class="heading" data-category="12" data-id="140">
+        <h3 class="mb-0">
+         <button aria-expanded="false" class="btn btn-link btn-block text-left btn-help collapsed" data-target="#collapse-12-140" data-toggle="collapse" id="btn-colapse-12-140" itemprop="name" type="button">
+          Confirmei uma proposta. E agora?
+          <img alt="Icone de mostrar mais" height="26" src="/static/images/icons/+.png" width="26"/>
+         </button>
+        </h3>
+       </div>
+       <div class="collapse" data-parent="#accordion" id="collapse-12-140">
+        <div class="card-body" id="faq-text-content" itemprop="acceptedAnswer" itemscope="" itemtype="https://schema.org/Answer">
+         <span itemprop="text">
+          <p>
+           <span style="font-weight: 400;">
+            Após confirmar a sua proposta em nossa plataforma, ela será enviada ao credor (responsável pela sua dívida) para aprovação.
+           </span>
+          </p>
+          <p>
+          </p>
+          <p>
+           <span style="font-weight: 400;">
+            Esse processo costuma ser rápido e online, mas em alguns casos pode levar até 3 dias úteis para que você receba a aprovação do seu acordo. Mas fique tranquilo(a), logo que o credor enviar a aprovação da proposta, a QuiteJá te avisará por SMS, e-mail, WhatsApp e/ou Push, com todos os detalhes de como realizar o pagamento.
+           </span>
+          </p>
+         </span>
+        </div>
+       </div>
+      </div>
+      <div class="card card-help" data-category="12" itemprop="mainEntity" itemscope="" itemtype="https://schema.org/Question">
+       <div class="heading" data-category="12" data-id="192">
+        <h3 class="mb-0">
+         <button aria-expanded="false" class="btn btn-link btn-block text-left btn-help collapsed" data-target="#collapse-12-192" data-toggle="collapse" id="btn-colapse-12-192" itemprop="name" type="button">
+          Quais as formas de pagamento?
+          <img alt="Icone de mostrar mais" height="26" src="/static/images/icons/+.png" width="26"/>
+         </button>
+        </h3>
+       </div>
+       <div class="collapse" data-parent="#accordion" id="collapse-12-192">
+        <div class="card-body" id="faq-text-content" itemprop="acceptedAnswer" itemscope="" itemtype="https://schema.org/Answer">
+         <span itemprop="text">
+          <p>
+           <span style="font-weight: 400;">
+            Cada credor (responsável pela sua dívida) possui uma forma de pagamento, é necessário iniciar uma proposta aqui em nosso site e verificar os meios de pagamento disponíveis para o débito em aberto.
+           </span>
+          </p>
+          <p>
+           <span style="font-weight: 400;">
+           </span>
+          </p>
+          <p>
+           <span style="font-weight: 400;">
+            Buscamos entregar a maneira mais fácil de resolver sua pendência
+           </span>
+           <span style="font-weight: 400;">
+            ,
+           </span>
+           <strong>
+            <a href="https://quiteja.com.br/">
+             clique aqui e veja o que conseguimos
+            </a>
+           </strong>
+           <span style="font-weight: 400;">
+            .
+           </span>
+          </p>
+         </span>
+        </div>
+       </div>
+      </div>
+      <div class="card card-help" data-category="12" itemprop="mainEntity" itemscope="" itemtype="https://schema.org/Question">
+       <div class="heading" data-category="12" data-id="72">
+        <h3 class="mb-0">
+         <button aria-expanded="false" class="btn btn-link btn-block text-left btn-help collapsed" data-target="#collapse-12-72" data-toggle="collapse" id="btn-colapse-12-72" itemprop="name" type="button">
+          Como tenho acesso aos meus boletos?
+          <img alt="Icone de mostrar mais" height="26" src="/static/images/icons/+.png" width="26"/>
+         </button>
+        </h3>
+       </div>
+       <div class="collapse" data-parent="#accordion" id="collapse-12-72">
+        <div class="card-body" id="faq-text-content" itemprop="acceptedAnswer" itemscope="" itemtype="https://schema.org/Answer">
+         <span itemprop="text">
+          <p>
+           <span style="font-weight: 400;">
+            Se seu acordo foi realizado com a opção de boleto, nós enviamos o boleto e lembretes por SMS, e-mail, ou ainda, via Push, caso você tenha autorizado essa opção ao ter feito a negociação em nosso site.
+           </span>
+          </p>
+          <p>
+          </p>
+          <p>
+           <span style="font-weight: 400;">
+            Os boletos são enviados ao menos 3 dias antes do vencimento. Você também tem acesso ao boleto atual aqui mesmo! Basta acessar sua conta em nosso site informando seu CPF e ir à seção “Meus Acordos/Detalhes do Acordo”.
+           </span>
+          </p>
+          <p>
+          </p>
+          <p>
+           <span style="font-weight: 400;">
+            Importante: Caso o seu acordo seja parcelado, enviaremos somente o boleto que vencerá no mês, pois o credor (responsável pela sua dívida) gera apenas um boleto por vez, e assim que o próximo boleto estiver disponível, encaminharemos para você, não se preocupe!
+           </span>
+          </p>
+          <p>
+          </p>
+          <p>
+           <span style="font-weight: 400;">
+            Caso não receba o seu boleto dentro do prazo e não consiga acessá-lo no site, entre em contato com a gente pelo e-mail:
+            <a href="mailto:atendimento@quiteja.com.br">
+             atendimento@quiteja.com.br
+            </a>
+            ou
+            <a href="ajuda#help-anchor">
+             <strong>
+              clique aqui
+             </strong>
+            </a>
+            . Nós o encaminharemos para você.
+           </span>
+          </p>
+         </span>
+        </div>
+       </div>
+      </div>
+      <div class="card card-help" data-category="12" itemprop="mainEntity" itemscope="" itemtype="https://schema.org/Question">
+       <div class="heading" data-category="12" data-id="195">
+        <h3 class="mb-0">
+         <button aria-expanded="false" class="btn btn-link btn-block text-left btn-help collapsed" data-target="#collapse-12-195" data-toggle="collapse" id="btn-colapse-12-195" itemprop="name" type="button">
+          Acabei de pagar. E agora?
+          <img alt="Icone de mostrar mais" height="26" src="/static/images/icons/+.png" width="26"/>
+         </button>
+        </h3>
+       </div>
+       <div class="collapse" data-parent="#accordion" id="collapse-12-195">
+        <div class="card-body" id="faq-text-content" itemprop="acceptedAnswer" itemscope="" itemtype="https://schema.org/Answer">
+         <span itemprop="text">
+          <p>
+           <span style="font-weight: 400;">
+            Agora é só acompanhar a confirmação, pois o credor (responsável pela sua dívida) pode levar até 72 horas úteis para computar um pagamento. Logo você receberá um SMS e e-mail confirmando o pagamento.
+           </span>
+          </p>
+         </span>
+        </div>
+       </div>
+      </div>
+      <div class="card card-help" data-category="12" itemprop="mainEntity" itemscope="" itemtype="https://schema.org/Question">
+       <div class="heading" data-category="12" data-id="142">
+        <h3 class="mb-0">
+         <button aria-expanded="false" class="btn btn-link btn-block text-left btn-help collapsed" data-target="#collapse-12-142" data-toggle="collapse" id="btn-colapse-12-142" itemprop="name" type="button">
+          Meu boleto está com erro. O que posso fazer?
+          <img alt="Icone de mostrar mais" height="26" src="/static/images/icons/+.png" width="26"/>
+         </button>
+        </h3>
+       </div>
+       <div class="collapse" data-parent="#accordion" id="collapse-12-142">
+        <div class="card-body" id="faq-text-content" itemprop="acceptedAnswer" itemscope="" itemtype="https://schema.org/Answer">
+         <span itemprop="text">
+          <p>
+           Caso tenha algum problema na hora de pagar o boleto, entre em contato conosco, basta
+           <a href="ajuda#help-anchor">
+            <strong>
+             clicar aqui
+            </strong>
+           </a>
+           e explicar o que está acontecendo para resolvermos seu caso.
+          </p>
+         </span>
+        </div>
+       </div>
+      </div>
+      <div class="card card-help" data-category="12" itemprop="mainEntity" itemscope="" itemtype="https://schema.org/Question">
+       <div class="heading" data-category="12" data-id="196">
+        <h3 class="mb-0">
+         <button aria-expanded="false" class="btn btn-link btn-block text-left btn-help collapsed" data-target="#collapse-12-196" data-toggle="collapse" id="btn-colapse-12-196" itemprop="name" type="button">
+          Meu boleto venceu. O que posso fazer?
+          <img alt="Icone de mostrar mais" height="26" src="/static/images/icons/+.png" width="26"/>
+         </button>
+        </h3>
+       </div>
+       <div class="collapse" data-parent="#accordion" id="collapse-12-196">
+        <div class="card-body" id="faq-text-content" itemprop="acceptedAnswer" itemscope="" itemtype="https://schema.org/Answer">
+         <span itemprop="text">
+          <p>
+           <span style="font-weight: 400;">
+            Imprevistos acontecem, fique tranquilo(a)! Enquanto seu acordo ainda estiver ativo é possível, mesmo em atraso, realizar o pagamento.
+           </span>
+          </p>
+          <p>
+          </p>
+          <p>
+           <span style="font-weight: 400;">
+            Para emitir seu boleto basta acessar sua conta em nosso site informando seu CPF e ir à seção “Meus Acordos/Detalhes do Acordo”. Também enviaremos seu boleto por e-mail e SMS.
+           </span>
+          </p>
+          <p>
+          </p>
+          <p>
+           <span style="font-weight: 400;">
+            Atenção! É importante que você cumpra seu acordo pagando as parcelas na data de vencimento. O não cumprimento do acordo poderá ocasionar a interrupção do acordo, com a perda de descontos e parcelamentos flexíveis, sem contar que o pagamento em atraso poderá acarretar em atualização monetária, juros de mora e multas
+           </span>
+          </p>
+         </span>
+        </div>
+       </div>
+      </div>
+      <div class="card card-help" data-category="12" itemprop="mainEntity" itemscope="" itemtype="https://schema.org/Question">
+       <div class="heading" data-category="12" data-id="141">
+        <h3 class="mb-0">
+         <button aria-expanded="false" class="btn btn-link btn-block text-left btn-help collapsed" data-target="#collapse-12-141" data-toggle="collapse" id="btn-colapse-12-141" itemprop="name" type="button">
+          Quando o meu nome fica limpo?
+          <img alt="Icone de mostrar mais" height="26" src="/static/images/icons/+.png" width="26"/>
+         </button>
+        </h3>
+       </div>
+       <div class="collapse" data-parent="#accordion" id="collapse-12-141">
+        <div class="card-body" id="faq-text-content" itemprop="acceptedAnswer" itemscope="" itemtype="https://schema.org/Answer">
+         <span itemprop="text">
+          <p>
+           <span style="font-weight: 400;">
+            Após o reconhecimento do pagamento da parcela única ou da entrada do seu acordo, normalmente em até 5 dias úteis o seu nome será retirado dos órgãos de restrição ao crédito (como SPC e/ou SERASA).
+           </span>
+          </p>
+          <p>
+           <span style="font-weight: 400;">
+           </span>
+          </p>
+          <p>
+           <span style="font-weight: 400;">
+            <strong>
+             Atenção!
+            </strong>
+            Toda vez que você atrasar o pagamento do seu acordo em mais de 5 dias, o credor (responsável pela sua dívida) volta a inscrever o seu nome nos órgãos de proteção ao crédito. Ele é retirado normalmente em até 5 dias úteis após o pagamento do saldo em atraso.
+           </span>
+          </p>
+          <p>
+          </p>
+          <p>
+           <span style="font-weight: 400;">
+            Você realizou um acordo por meio da QuiteJá e está em dia com suas parcelas, mas o contrato negociado ainda consta em algum órgão de proteção ao crédito, mesmo após o prazo de tolerância? Entre em contato com a gente, é só
+            <a href="ajuda#help-anchor">
+             clicar aqui
+            </a>
+            e informar o que está acontecendo, nossa equipe irá lhe ajudar.
+           </span>
+          </p>
+         </span>
+        </div>
+       </div>
+      </div>
+      <div class="card card-help" data-category="12" itemprop="mainEntity" itemscope="" itemtype="https://schema.org/Question">
+       <div class="heading" data-category="12" data-id="162">
+        <h3 class="mb-0">
+         <button aria-expanded="false" class="btn btn-link btn-block text-left btn-help collapsed" data-target="#collapse-12-162" data-toggle="collapse" id="btn-colapse-12-162" itemprop="name" type="button">
+          Como a negociação afeta meu score de crédito?
+          <img alt="Icone de mostrar mais" height="26" src="/static/images/icons/+.png" width="26"/>
+         </button>
+        </h3>
+       </div>
+       <div class="collapse" data-parent="#accordion" id="collapse-12-162">
+        <div class="card-body" id="faq-text-content" itemprop="acceptedAnswer" itemscope="" itemtype="https://schema.org/Answer">
+         <span itemprop="text">
+          <p>
+           <span style="font-weight: 400;">
+            Ao negociar uma dívida negativada você tira essa restrição do seu CPF (ou CNPJ), e pode voltar a ter o nome limpo. Estar com o nome limpo é um dos fatores que incidem positivamente no score de crédito, o que contribui para o aumento da sua pontuação.
+            <strong>
+             <a href="https://quiteja.com.br/blog/como-aumentar-o-score/">
+              Clique aqui para saber mais
+             </a>
+            </strong>
+            .
+           </span>
+          </p>
+         </span>
+        </div>
+       </div>
+      </div>
+      <div class="card card-help" data-category="12" itemprop="mainEntity" itemscope="" itemtype="https://schema.org/Question">
+       <div class="heading" data-category="12" data-id="143">
+        <h3 class="mb-0">
+         <button aria-expanded="false" class="btn btn-link btn-block text-left btn-help collapsed" data-target="#collapse-12-143" data-toggle="collapse" id="btn-colapse-12-143" itemprop="name" type="button">
+          Desconheço a dívida ou discordo dela. O que eu faço?
+          <img alt="Icone de mostrar mais" height="26" src="/static/images/icons/+.png" width="26"/>
+         </button>
+        </h3>
+       </div>
+       <div class="collapse" data-parent="#accordion" id="collapse-12-143">
+        <div class="card-body" id="faq-text-content" itemprop="acceptedAnswer" itemscope="" itemtype="https://schema.org/Answer">
+         <span itemprop="text">
+          <p>
+           <span style="font-weight: 400;">
+            Os valores dos débitos e as propostas são enviadas do credor (responsável pela sua dívida) para a QuiteJá, para que possamos entrar em contato com você e apresentar as oportunidades disponíveis.
+           </span>
+          </p>
+          <p>
+           <span style="font-weight: 400;">
+           </span>
+          </p>
+          <p>
+           <span style="font-weight: 400;">
+            Caso os detalhes da dívida apresentada sejam desconhecidos, ou não concorde com os valores, sugerimos que entre em contato diretamente com o credor (responsável pela sua dívida).
+           </span>
+          </p>
+         </span>
+        </div>
+       </div>
+      </div>
+      <div class="card card-help" data-category="12" itemprop="mainEntity" itemscope="" itemtype="https://schema.org/Question">
+       <div class="heading" data-category="12" data-id="197">
+        <h3 class="mb-0">
+         <button aria-expanded="false" class="btn btn-link btn-block text-left btn-help collapsed" data-target="#collapse-12-197" data-toggle="collapse" id="btn-colapse-12-197" itemprop="name" type="button">
+          Estou recebendo cobranças em nome de outra pessoa. O que devo fazer?
+          <img alt="Icone de mostrar mais" height="26" src="/static/images/icons/+.png" width="26"/>
+         </button>
+        </h3>
+       </div>
+       <div class="collapse" data-parent="#accordion" id="collapse-12-197">
+        <div class="card-body" id="faq-text-content" itemprop="acceptedAnswer" itemscope="" itemtype="https://schema.org/Answer">
+         <span itemprop="text">
+          <p>
+           <span style="font-weight: 400;">
+            Revisamos constantemente nossos métodos de notificações.
+           </span>
+          </p>
+          <p>
+           <span style="font-weight: 400;">
+            Mesmo assim, infelizmente esses enganos podem acontecer; então, pedimos desculpas.
+           </span>
+          </p>
+          <p>
+          </p>
+          <p>
+           <span style="font-weight: 400;">
+            Nesses casos, por favor contate a QuiteJá, basta
+            <a href="ajuda#help-anchor">
+             clicar aqui
+            </a>
+            e informar o que está acontecendo. Vamos retirar seu contato do cadastro o mais rápido possível.
+           </span>
+          </p>
+         </span>
+        </div>
+       </div>
+      </div>
+      <div class="card card-help" data-category="12" itemprop="mainEntity" itemscope="" itemtype="https://schema.org/Question">
+       <div class="heading" data-category="12" data-id="198">
+        <h3 class="mb-0">
+         <button aria-expanded="false" class="btn btn-link btn-block text-left btn-help collapsed" data-target="#collapse-12-198" data-toggle="collapse" id="btn-colapse-12-198" itemprop="name" type="button">
+          Recebi ligações da QuiteJá: posso confiar?
+          <img alt="Icone de mostrar mais" height="26" src="/static/images/icons/+.png" width="26"/>
+         </button>
+        </h3>
+       </div>
+       <div class="collapse" data-parent="#accordion" id="collapse-12-198">
+        <div class="card-body" id="faq-text-content" itemprop="acceptedAnswer" itemscope="" itemtype="https://schema.org/Answer">
+         <span itemprop="text">
+          <p>
+           <span style="font-weight: 400;">
+            SIM! A QuiteJá agora conta também com a
+            <strong>
+             Beth
+            </strong>
+            ,
+            <strong>
+             nossa assistente virtual
+            </strong>
+            , que liga para nossos clientes para informar ofertas e condições imperdíveis de negociação que conseguimos junto aos credores parceiros.
+           </span>
+          </p>
+          <p>
+           <span style="font-weight: 400;">
+            Então, se a Beth te ligar, pode confiar, nossos processos de validação são seguros.
+           </span>
+          </p>
+          <p>
+           <span style="font-weight: 400;">
+            <strong>
+             Atenção:
+            </strong>
+            a QuiteJá somente realiza ligações aos clientes com atendentes
+           </span>
+           <strong>
+            virtuais
+           </strong>
+           <span style="font-weight: 400;">
+            . Se você receber alguma ligação de alguém se passando por um atendente, não prossiga. Procure nossos canais oficiais e relate ocorrido.
+           </span>
+          </p>
+         </span>
+        </div>
+       </div>
+      </div>
+      <div class="card card-help" data-category="12" itemprop="mainEntity" itemscope="" itemtype="https://schema.org/Question">
+       <div class="heading" data-category="12" data-id="189">
+        <h3 class="mb-0">
+         <button aria-expanded="false" class="btn btn-link btn-block text-left btn-help collapsed" data-target="#collapse-12-189" data-toggle="collapse" id="btn-colapse-12-189" itemprop="name" type="button">
+          Não encontrou o que procurava?
+          <img alt="Icone de mostrar mais" height="26" src="/static/images/icons/+.png" width="26"/>
+         </button>
+        </h3>
+       </div>
+       <div class="collapse" data-parent="#accordion" id="collapse-12-189">
+        <div class="card-body" id="faq-text-content" itemprop="acceptedAnswer" itemscope="" itemtype="https://schema.org/Answer">
+         <span itemprop="text">
+          <p>
+           Entre em contato com a gente, é só
+           <a href="ajuda#help-anchor">
+            <strong>
+             clicar aqui
+            </strong>
+           </a>
+           .
+          </p>
+         </span>
+        </div>
+       </div>
+      </div>
+      <h2 class="category-title" data-category="13">
+       Sobre a QuiteJá
+      </h2>
+      <div class="card card-help" data-category="13" itemprop="mainEntity" itemscope="" itemtype="https://schema.org/Question">
+       <div class="heading" data-category="13" data-id="79">
+        <h3 class="mb-0">
+         <button aria-expanded="false" class="btn btn-link btn-block text-left btn-help collapsed" data-target="#collapse-13-79" data-toggle="collapse" id="btn-colapse-13-79" itemprop="name" type="button">
+          O que a QuiteJá faz exatamente?
+          <img alt="Icone de mostrar mais" height="26" src="/static/images/icons/+.png" width="26"/>
+         </button>
+        </h3>
+       </div>
+       <div class="collapse" data-parent="#accordion" id="collapse-13-79">
+        <div class="card-body" id="faq-text-content" itemprop="acceptedAnswer" itemscope="" itemtype="https://schema.org/Answer">
+         <span itemprop="text">
+          <p>
+           <span style="font-weight: 400;">
+            Somos uma assessoria de renegociação de dívidas. Negociamos descontos junto aos credores (responsáveis pela sua dívida) e entramos em contato com os nossos clientes informando a eles as melhores opções para negociação de suas dívidas.
+           </span>
+          </p>
+          <p>
+          </p>
+          <p>
+           <span style="font-weight: 400;">
+            Nosso propósito é intermediar acordos e melhorar a relação desgastada entre as partes envolvidas, de forma transparente e eficiente.
+           </span>
+          </p>
+         </span>
+        </div>
+       </div>
+      </div>
+      <div class="card card-help" data-category="13" itemprop="mainEntity" itemscope="" itemtype="https://schema.org/Question">
+       <div class="heading" data-category="13" data-id="80">
+        <h3 class="mb-0">
+         <button aria-expanded="false" class="btn btn-link btn-block text-left btn-help collapsed" data-target="#collapse-13-80" data-toggle="collapse" id="btn-colapse-13-80" itemprop="name" type="button">
+          Negociar com a QuiteJá é seguro?
+          <img alt="Icone de mostrar mais" height="26" src="/static/images/icons/+.png" width="26"/>
+         </button>
+        </h3>
+       </div>
+       <div class="collapse" data-parent="#accordion" id="collapse-13-80">
+        <div class="card-body" id="faq-text-content" itemprop="acceptedAnswer" itemscope="" itemtype="https://schema.org/Answer">
+         <span itemprop="text">
+          <p>
+           <span style="font-weight: 400;">
+            Sim! A QuiteJá é uma empresa confiável, parceira de vários credores (responsáveis pela sua dívida). Mas você está certo(a) em confirmar esta questão; é muito importante ter sempre essa segurança. Por isso, caso deseje certificar, entre em contato com o credor, ele poderá confirmar a nossa parceria.
+           </span>
+          </p>
+         </span>
+        </div>
+       </div>
+      </div>
+      <div class="card card-help" data-category="13" itemprop="mainEntity" itemscope="" itemtype="https://schema.org/Question">
+       <div class="heading" data-category="13" data-id="144">
+        <h3 class="mb-0">
+         <button aria-expanded="false" class="btn btn-link btn-block text-left btn-help collapsed" data-target="#collapse-13-144" data-toggle="collapse" id="btn-colapse-13-144" itemprop="name" type="button">
+          Como eu entro em contato com a QuiteJá?
+          <img alt="Icone de mostrar mais" height="26" src="/static/images/icons/+.png" width="26"/>
+         </button>
+        </h3>
+       </div>
+       <div class="collapse" data-parent="#accordion" id="collapse-13-144">
+        <div class="card-body" id="faq-text-content" itemprop="acceptedAnswer" itemscope="" itemtype="https://schema.org/Answer">
+         <span itemprop="text">
+          <p>
+           <span style="font-weight: 400;">
+            Você pode entrar em contato com a QuiteJá agora mesmo, basta
+            <strong>
+             <a href="ajuda#help-anchor">
+              clicar aqui
+             </a>
+            </strong>
+            ou, se preferir, fale conosco através de nossas redes sociais oficiais (
+           </span>
+           <strong>
+            <a href="https://www.facebook.com/QuiteJa">
+             Facebook
+            </a>
+           </strong>
+           <span style="font-weight: 400;">
+            e
+           </span>
+           <a href="https://www.instagram.com/quite.ja/">
+            <span style="font-weight: 400;">
+             <strong>
+              Instagram
+             </strong>
+            </span>
+           </a>
+           <span style="font-weight: 400;">
+            ).
+           </span>
+          </p>
+          <p>
+          </p>
+          <p>
+           <span style="font-weight: 400;">
+            Dica: Sempre informe seu CPF (ou CNPJ) para que seu cadastro seja encontrado com mais facilidade e você possa ser atendido o mais rápido possível!
+           </span>
+          </p>
+         </span>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <a class="btn btn-need-help" href="/ajuda">
+     Ainda preciso de ajuda
+     <span class="badge badge-primary">
+     </span>
+    </a>
+   </section>
+  </article>
+  <footer>
+   <div class="big-footer">
+    <div class="circle-arrow-up">
+     <a aria-label="Site Quite Ja" href="#">
+      <img alt="Voltar para cima" loading="lazy" src="/static/images/circulo-verde.png"/>
+     </a>
+    </div>
+    <div class="big-footer-content">
+     <section class="social">
+      <figure class="logo-footer">
+       <img alt="Quiteja" loading="lazy" src="/static/images/logo-quiteja.png"/>
+      </figure>
+      <div id="big-footer-desc">
+       <p>
+        Negociamos dívidas de forma 100% online e com atendimento humanizado.
+       </p>
+      </div>
+      <section class="information">
+       <p>
+        <span>
+         CNPJ: 06.145.272/0001-66
+        </span>
+        <br/>
+        Av. Cândido de Abreu, 70
+        <br/>
+        80530-000 - Curitiba - PR
+       </p>
+      </section>
+      <div class="social-icons">
+       <a aria-label="Link Blog" href="/blog">
+        <i aria-hidden="true" class="fas fa-rss">
+        </i>
+       </a>
+       <a aria-label="Facebook" href="https://www.facebook.com/QuiteJa/" rel="noreferrer">
+        <i aria-hidden="true" class="fab fa-facebook-square">
+        </i>
+       </a>
+       <a aria-label="Instagram" href="https://www.instagram.com/quite.ja/" rel="noreferrer">
+        <i aria-hidden="true" class="fab fa-instagram">
+        </i>
+       </a>
+       <a aria-label="Linkedin" href="https://www.linkedin.com/company/quiteja/" rel="noreferrer">
+        <i aria-hidden="true" class="fab fa-linkedin">
+        </i>
+       </a>
+       <a aria-label="Youtube" href="https://www.youtube.com/channel/UCAqELLEaB1rF5pV1oNrL2HA" rel="noreferrer">
+        <i aria-hidden="true" class="fab fa-youtube">
+        </i>
+       </a>
+      </div>
+     </section>
+     <section class="footer-links">
+      <div class="footer-links-content">
+       <figure class="logo-reclame-aqui-footer-mobile">
+        <a aria-label="ReclameAqui QuiteJa" href="https://www.reclameaqui.com.br/empresa/quiteja_187542/" target="_blank">
+         <img alt="Selo ReclameAqui" height="56" loading="lazy" src="/static/images/reclame-aqui/logo.png?v=2.123.0" width="144"/>
+        </a>
+       </figure>
+       <p class="footer-links-title" target="_blank">
+        Nossos Parceiros
+       </p>
+       <a aria-label="Santander" href="/parceiros/santander" target="_blank">
+        Santander
+       </a>
+       <a aria-label="Itau" href="/parceiros/itau" target="_blank">
+        Itaú
+       </a>
+       <a aria-label="Pernambucanas" href="/parceiros/pernambucanas" target="_blank">
+        Pernambucanas
+       </a>
+       <a aria-label="Porto seguro" href="/parceiros/portoseguro" target="_blank">
+        Porto Seguro
+       </a>
+       <a aria-label="Pontofrio" href="/parceiros/pontofrio" target="_blank">
+        Pontofrio
+       </a>
+       <a aria-label="Digio" href="/parceiros/digio" target="_blank">
+        Digio
+       </a>
+       <a aria-label="Ipanema" href="/parceiros/ipanema" target="_blank">
+        Ipanema
+       </a>
+       <a aria-label="Itapeva" href="/parceiros/itapeva" target="_blank">
+        Itapeva
+       </a>
+       <a aria-label="Casas bahia" href="/parceiros/casasbahia" target="_blank">
+        Casas Bahia
+       </a>
+       <a aria-label="Peru" href="/parceiros/geru" target="_blank">
+        Geru
+       </a>
+       <a aria-label="Mercado livre" href="/parceiros/mercadolivre" target="_blank">
+        Mercado Livre
+       </a>
+       <a aria-label="Banco pan" href="/parceiros/bancopan" target="_blank">
+        Banco Pan
+       </a>
+       <a aria-label="Crediativos" href="/parceiros/crediativos" target="_blank">
+        Crediativos
+       </a>
+      </div>
+      <div class="footer-links-content">
+       <p class="footer-links-title">
+        Quem somos
+       </p>
+       <a aria-label="Nossa jornada" href="/quem-somos#ho-whe-are">
+        Nossa jornada
+       </a>
+       <a aria-label="Manifesto" href="/quem-somos#our-manifest">
+        Manifesto
+       </a>
+       <a aria-label="Na mídia" href="/quem-somos#quiteja-midia">
+        Na mídia
+       </a>
+       <a aria-label="Trabalhe conosco" href="/quem-somos#work-with-us">
+        Trabalhe conosco
+       </a>
+       <a aria-label="Parceria" href="/parceiros">
+        Parceria
+       </a>
+      </div>
+      <div class="footer-links-content">
+       <p class="footer-links-title">
+        Saiba mais
+       </p>
+       <a aria-label="Dicas de segurança" href="/seguranca">
+        Dicas de segurança
+       </a>
+       <a aria-label="Blog" href="/blog">
+        Blog
+       </a>
+      </div>
+      <div class="footer-links-content">
+       <p class="footer-links-title">
+        Transparência
+       </p>
+       <a aria-label="Política de privacidade" href="/politicas-de-privacidade">
+        Política de privacidade
+       </a>
+       <a aria-label="Termos de uso" href="/termos">
+        Termos de uso
+       </a>
+      </div>
+      <div class="footer-links-content">
+       <p class="footer-links-title">
+        Ajuda
+       </p>
+       <a aria-label="Perguntas frequentes" href="/ajuda">
+        Perguntas frequentes
+       </a>
+       <a aria-label="Contato" href="/ajuda#form-help">
+        Contato
+       </a>
+       <figure class="logo-reclame-aqui-footer">
+        <a aria-label="ReclameAqui QuiteJa" href="https://www.reclameaqui.com.br/empresa/quiteja_187542/" target="_blank">
+         <img alt="Selo ReclameAqui" loading="lazy" src="/static/images/reclame-aqui/logo.png?v=2.123.0"/>
+        </a>
+       </figure>
+      </div>
+     </section>
+    </div>
+   </div>
+   <div class="little-footer">
+    <div class="little-footer-content">
+     <section class="copyrights">
+      <p>
+       2021 © Todos os direitos reservados QuiteJá
+      </p>
+     </section>
+    </div>
+   </div>
+  </footer>
+  <script crossorigin="anonymous" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" referrerpolicy="no-referrer" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js">
+  </script>
+  <script crossorigin="anonymous" src="https://cdn.jsdelivr.net/npm/jquery-validation@1.19.3/dist/jquery.validate.min.js">
+  </script>
+  <script src="/static/js/libs/bootstrap.bundle.min.js" type="text/javascript">
+  </script>
+  <script src="/static/js/libs/jquery.mask.min.js" type="text/javascript">
+  </script>
+  <script src="/static/js/libs/jquery-clickout.min.js" type="text/javascript">
+  </script>
+  <script src="/static/js/libs/watch.js" type="text/javascript">
+  </script>
+  <script src="/static/dist/main.bundle.js?v=2.123.0">
+  </script>
+  <div class="cookieModal" id="cookieModal">
+   <div class="modal-content slide-in-top" id="cookieModalContent">
+    <p>
+     Ao navegar você concorda com a utilização de cookies e tecnologias semelhantes de acordo com nossa
+     <b>
+      <a class="link-to-policies" href="/politicas-de-privacidade" target="_blank">
+       Política de Privacidade
+      </a>
+     </b>
+     .
+    </p>
+    <button class="btn btn-primary" id="acceptCookie" type="button">
+     Prosseguir
+    </button>
+   </div>
+  </div>
+  <script src="/static/dist/home.bundle.js?v=2.123.0">
+  </script>
+  <div aria-hidden="true" aria-labelledby="exampleModalLabel" class="modal fade" id="exampleModal" role="dialog" tabindex="-1">
+   <div class="modal-dialog" role="document">
+    <div class="aviso-content modal-content">
+     <div class="aviso-card">
+      <div class="aviso-close">
+       <img alt="" data-dismiss="modal" src="/static/images/close-modal.png"/>
+      </div>
+      <div class="aviso-content">
+       <img alt="alerta" id="image-help-modal" src="/static/images/icon-modal.png"/>
+       <h3>
+        <span class="aviso-type" id="modalTitle">
+        </span>
+        <p id="form-help-message">
+         <span class="aviso-type">
+         </span>
+         .
+        </p>
+        <button aria-label="Close" data-dismiss="modal">
+         Ok
+        </button>
+       </h3>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+ </body>
+</html>
