@@ -27,7 +27,7 @@ page = requests.get(url)
 # Função para remover as tags
 def remove_tags(html):
     # analisa o conteudo html
-    soup = BeautifulSoup(html, "html.parser")  # é criado um objeto chamado soup que está interpretando o documento HTML
+    soup = BeautifulSoup(html, "html.parser")  # cria um objeto chamado soup que está interpretando o documento HTML
 
     for data in soup(['script']):
         # Remove tags
@@ -40,6 +40,8 @@ def remove_tags(html):
 # Imprime os dados extraídos sem tags
 # usa a função 'remove_tags' para remover as tags
 sem_tags = remove_tags(page.content)
+print()
+print("HTML TRATADO: ")
 print(sem_tags)
 
 
@@ -52,6 +54,5 @@ for i in tags_lower.split():  # separa o conteudo em uma lista para realizar a b
     if i.startswith(inicio) and i.endswith(fim):  # condição de busca do conteudo das variáveis inicio e fim
         palavras.append(i)
 
-print()
-print(f'LISTA DE PALAVRAS: {palavras}')
-print(f'A LISTA CONTÉM "{len(palavras)}" PALAVRAS')
+print(f'\nLISTA DE PALAVRAS: {palavras}')
+print(f'A LISTA CONTÉM: {len(palavras)} PALAVRAS')
