@@ -42,6 +42,7 @@ def remove_tags(html):
 sem_tags = remove_tags(page.content)
 print(sem_tags)
 
+
 # converte os caracteres em minuscula
 tags_lower = sem_tags.lower()
 
