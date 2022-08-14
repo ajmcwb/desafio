@@ -1,6 +1,7 @@
 import requests  # permitirá enviar solicitações http
 from bs4 import BeautifulSoup  # extrai dados de arquivos html e xml
 from configparser import ConfigParser  # para manipulação de arquivos INI
+import time
 
 # Primeiro foi necessário inserir uma chave ('dados') dentro do arquivo .ini
 # para que o interpretador possa localizar as informações
@@ -22,6 +23,7 @@ if '=' in url:
 # Conteúdo da página do URL do site
 page = requests.get(url)
 
+
 # Função para remover as tags
 def remove_tags(html):
     # analisa o conteudo html
@@ -36,10 +38,19 @@ def remove_tags(html):
 
 
 # Imprime os dados extraídos sem tags
-sem_tags = remove_tags(page.content).lower()  # usa a função 'remove_tags' para remover as tags e converte
-# todos os caracteres em minusculas
+# usa a função 'remove_tags' para remover as tags
+sem_tags = remove_tags(page.content)
+print(sem_tags)
 
+# converte os caracteres em minuscula
+tags_lower = sem_tags.lower()
+
+palavras = []
 # localiza todas as palavras que iniciam com o conteudo de 'inicio' (con) e termina com o conteúdo de 'fim' (e)
-for i in sem_tags.split():  # separa o conteudo em uma lista para realizar a busca
+for i in tags_lower.split():  # separa o conteudo em uma lista para realizar a busca
     if i.startswith(inicio) and i.endswith(fim):  # condição de busca do conteudo das variáveis inicio e fim
-        print(i)  # imprime as palavras encontradas que iniciam e terminam com os valores das variáveis inicio e fim
+        palavras.append(i)
+
+print()
+print(f'LISTA DE PALAVRAS: {palavras}')
+print(f'A LISTA CONTÉM "{len(palavras)}" PALAVRAS')
