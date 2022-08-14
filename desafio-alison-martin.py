@@ -1,7 +1,6 @@
 import requests  # permitirá enviar solicitações http
 from bs4 import BeautifulSoup  # extrai dados de arquivos html e xml
 from configparser import ConfigParser  # para manipulação de arquivos INI
-import time
 
 # Primeiro foi necessário inserir uma chave ('dados') dentro do arquivo .ini
 # para que o interpretador possa localizar as informações
