@@ -1,3 +1,4 @@
+import re
 import requests  # permitirá enviar solicitações http
 from bs4 import BeautifulSoup  # extrai dados de arquivos html e xml
 from configparser import ConfigParser  # para manipulação de arquivos INI
@@ -26,7 +27,7 @@ page = requests.get(url)
 def remove_tags(html):
     # analisa o conteúdo html
     soup = BeautifulSoup(html, "html.parser")  # cria um objeto chamado soup que está interpretando o documento HTML
-
+    
     for data in soup(['script']):
         # Remove tags
         data.decompose()
@@ -40,7 +41,7 @@ def remove_tags(html):
 sem_tags = remove_tags(page.content)
 
 # converte os dados extraídos em minúscula
-dados_lower = sem_tags.lower()
+dados_lower = re.IGNORECASE(sem_tags)
 
 print("HTML TRATADO: ")
 print(sem_tags)
