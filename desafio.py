@@ -1,4 +1,4 @@
-import re
+import re  # expressões regulares
 import requests  # permitirá enviar solicitações http
 from bs4 import BeautifulSoup  # extrai dados de arquivos html e xml
 from configparser import ConfigParser  # para manipulação de arquivos INI
@@ -9,12 +9,12 @@ from configparser import ConfigParser  # para manipulação de arquivos INI
 config = ConfigParser()
 config.read('desafio.ini')
 
-# captura a informação na seção (criada) 'dados' e chave 'url', 'inicio', 'fim'
+# Captura a informação na seção (criada) 'dados' e chave 'url', 'inicio', 'fim'
 url = (config.get('dados', 'url'))
 inicio = (config.get('dados', 'inicio'))
 fim = (config.get('dados', 'fim'))
 
-# concatena a url com o nome do candidato
+# Concatena a url com o nome do candidato
 if '=' in url:
     new_url = url + 'alison'
     url = new_url
@@ -27,7 +27,7 @@ page = requests.get(url)
 def remove_tags(html):
     # analisa o conteúdo html
     soup = BeautifulSoup(html, "html.parser")  # cria um objeto chamado soup que está interpretando o documento HTML
-    
+
     for data in soup(['script']):
         # Remove tags
         data.decompose()
@@ -40,17 +40,17 @@ def remove_tags(html):
 # usa a função 'remove_tags' para remover as tags
 sem_tags = remove_tags(page.content)
 
-# converte os dados extraídos em minúscula
-dados_lower = re.IGNORECASE(sem_tags)
+# localiza todas as palavras que iniciam com o valor de "inicio" (con)
+start = re.findall(r'\b' + inicio + '\w+', sem_tags, flags=re.I)
 
 print("HTML TRATADO: ")
 print(sem_tags)
 
 palavras = []  # lista para receber as palavras buscadas
 
-# localiza todas as palavras que iniciam com o conteúdo de 'inicio' (con) e termina com o conteúdo de 'fim' (e)
-for i in dados_lower.split():  # separa o conteúdo em uma lista para realizar a busca
-    if i.startswith(inicio) and i.endswith(fim):  # condição de busca do conteúdo das variáveis inicio e fim
+# localiza todas as palavras terminam com o conteúdo de 'fim' (e)
+for i in start:  # separa o conteúdo em uma lista para realizar a busca
+    if i.endswith(fim):  # condição de busca do conteúdo das variáveis "fim"
         palavras.append(i)
 
 print(f'\nLISTA DE PALAVRAS: {palavras}')  # imprime a lista das palavras encontradas
